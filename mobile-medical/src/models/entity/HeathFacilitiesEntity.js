@@ -1,0 +1,31 @@
+import { HEATH_FACILITIES_TABLE } from "./Schema";
+
+export default {
+  name: HEATH_FACILITIES_TABLE,
+  primaryKey: "id",
+  properties: {
+    id: { type: "int?" },
+    name: { type: "string?" },
+    code: { type: "string?" },
+    fax: { type: "string?" },
+    email: { type: "string?" },
+    address: { type: "string?" },
+    status: { type: "int?" },
+    manager: { type: "string?" },
+    description: { type: "string?" },
+    imgPath: { type: "string?" },
+    medicalProcessPath: { type: "string?" },
+    createdBy: { type: "string?" },
+    createdDate: { type: "date?" },
+    lastModifiedBy: { type: "string?" },
+    lastModifiedDate: { type: "date?" },
+    hasChild: { type: "bool?" },
+    children: { type: "HEATH_FACILITIES[]" },
+    cityCode: { type: "string?" },
+    districtCode: { type: "string?" },
+    wardCode: { type: "string?" },
+    latitude: { type: "double?" },
+    longitude: { type: "double?" },
+    config: { type: "HEATH_FACILITIES_CONFIG?" },
+  },
+};

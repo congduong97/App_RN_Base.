@@ -1,0 +1,12 @@
+export const APP_CONFIG_TABLE = "APP_CONFIG"; //Config app
+export const AUTHENT_TABLE = "AUTHENT_TABLE"; // Thong tin nguoi dung
+export const USER_INFO_TABLE = "USER_INFO"; // Thong tin nguoi dung
+export const HEATH_FACILITIES_TABLE = "HEATH_FACILITIES"; // Danh sach benh vien
+export const HEATH_FACILITIES_CONFIG_TABLE = "HEATH_FACILITIES_CONFIG"; // Danh sach benh vien
+export const PATIENT_RECORDS_TABLE = "PATIENT_RECORDS"; // Danh sach Ho so suc khoe
+export const RELATIONSHIP_TABLE = "RELATIONSHIP"; // Danh sach Ho so suc khoe
+export const PROVINCES_TABLE = "PROVINCES"; // TInh thanh
+export const FB_TOPICS = "FB_TOPICS"; // Tieu de
+export const MEDICAL_SERVICES_TABLE = "MEDICAL_SERVICES"; // Tieu de
+export const CODE_PATIENT_SHORT_TABLE = "CODE_PATIENT_SHORT_TABLE"; // TIM KIEM ma lan kham  gan day
+export const MEDICAL_REMINDER_TABLE = "MEDICAL_REMINDER"; // Nhắc lịch thuốc

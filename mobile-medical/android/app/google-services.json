@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862535373415",
+    "project_id": "evotek-medical-appointment",
+    "storage_bucket": "evotek-medical-appointment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862535373415:android:ebd926138e107839803ac2",
+        "android_client_info": {
+          "package_name": "com.bkav.medicalappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862535373415-67o9fjo7or3mrlbvnhd2lsb9n5ppms3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNzEh7LD58aXqD5jkp1n5sqhIYPqsxmq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862535373415-67o9fjo7or3mrlbvnhd2lsb9n5ppms3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
