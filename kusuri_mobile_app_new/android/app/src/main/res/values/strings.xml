@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DEV</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">DFU_9tkXPPQi4Uy0t8328NspQmQPMUUawLoKa</string>
+    <!-- <string name="app_name">1.0.7.クスリのアオキ公式アプリ</string> -->
+</resources>

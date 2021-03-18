@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "903556958068",
+    "firebase_url": "https://kusurinoaokidev.firebaseio.com",
+    "project_id": "kusurinoaokidev",
+    "storage_bucket": "kusurinoaokidev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903556958068:android:2b4147d072d40076",
+        "android_client_info": {
+          "package_name": "jp.co.kusuriaoki.android.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903556958068-jftauctp5kcg1hsg9h5f95hb3knenlhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEwuwER0u9XrjSAJTmU7kqEznJSVf4xBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903556958068-jftauctp5kcg1hsg9h5f95hb3knenlhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "903556958068-ora2llfca59q4hn6u1vov0ekh6ihuvsh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.com.kusurinoaoki.ios.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

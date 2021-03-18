@@ -1,0 +1,17 @@
+diff --git a/node_modules/react-native/Libraries/Animated/release/.npmignore b/node_modules/react-native/Libraries/Animated/release/.gitignore
+similarity index 100%
+rename from node_modules/react-native/Libraries/Animated/release/.npmignore
+rename to node_modules/react-native/Libraries/Animated/release/.gitignore
+diff --git a/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/systeminfo/AndroidInfoModule.java b/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/systeminfo/AndroidInfoModule.java
+index cf5ca40..262f22a 100644
+--- a/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/systeminfo/AndroidInfoModule.java
++++ b/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/systeminfo/AndroidInfoModule.java
+@@ -91,7 +91,7 @@ public class AndroidInfoModule extends ReactContextBaseJavaModule {
+ 
+   private Boolean isRunningScreenshotTest() {
+     try {
+-      Class.forName("android.support.test.rule.ActivityTestRule");
++      Class.forName("androidx.test.rule.ActivityTestRule");
+       return true;
+     } catch (ClassNotFoundException ignored) {
+       return false;

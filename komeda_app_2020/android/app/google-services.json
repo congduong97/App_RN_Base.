@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130151718772",
+    "firebase_url": "https://komeda-dev-2522c.firebaseio.com",
+    "project_id": "komeda-dev-2522c",
+    "storage_bucket": "komeda-dev-2522c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130151718772:android:3964e9353ee761924fd621",
+        "android_client_info": {
+          "package_name": "com.komeda_app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130151718772-21t2ehp9n4faf2qv5ertg4cg9qteadu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.komeda_app.dev",
+            "certificate_hash": "5e6bb1c4961c446095fff71069957d88a550591f"
+          }
+        },
+        {
+          "client_id": "130151718772-8uemigcekjh4pvrf1rbjphubt8nnhpbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsGtFKevqrRyatUkveyJZJ19SJ9tgYaUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130151718772-8uemigcekjh4pvrf1rbjphubt8nnhpbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,68 @@
+{
+  "_from": "react-native-image-zoom-viewer@2.2.14",
+  "_id": "react-native-image-zoom-viewer@2.2.14",
+  "_inBundle": false,
+  "_integrity": "sha512-ZgVXnlTftQRxbd3YU4k8jvOO94GXWHvW3ITWXoxRupUsztaE4lWdLZizG/M2hxqdNOhHzZfPu60nU0+g0dZqzA==",
+  "_location": "/react-native-image-zoom-viewer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-image-zoom-viewer@2.2.14",
+    "name": "react-native-image-zoom-viewer",
+    "escapedName": "react-native-image-zoom-viewer",
+    "rawSpec": "2.2.14",
+    "saveSpec": null,
+    "fetchSpec": "2.2.14"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-image-zoom-viewer/-/react-native-image-zoom-viewer-2.2.14.tgz",
+  "_shasum": "8f1f3e94fc4b19968b85b84a08ec0db7d5de7c5f",
+  "_spec": "react-native-image-zoom-viewer@2.2.14",
+  "_where": "/Users/admin/shop-advertising-app",
+  "author": {
+    "name": "ascoders"
+  },
+  "bugs": {
+    "url": "https://github.com/ascoders/react-native-image-viewer/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "react-native-image-pan-zoom": "^2.1.7"
+  },
+  "deprecated": false,
+  "description": "react native image viewer,大图浏览",
+  "devDependencies": {
+    "@types/react": "*",
+    "@types/react-native": "*",
+    "ascoders-tslint-config": "^1.0.2",
+    "react": "*",
+    "react-native": "*",
+    "tslint": "^5.8.0",
+    "tslint-config-prettier": "^1.13.0",
+    "typescript": "^2.9.2"
+  },
+  "homepage": "https://github.com/ascoders/react-native-image-viewer#readme",
+  "keywords": [
+    "image-viewer"
+  ],
+  "license": "MIT",
+  "main": "built/index.js",
+  "name": "react-native-image-zoom-viewer",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ascoders/react-native-image-viewer.git"
+  },
+  "scripts": {
+    "prepare": "rm -rf built && tsc",
+    "start": "tsc -w --outDir demo/built"
+  },
+  "types": "src/index.ts",
+  "version": "2.2.14"
+}
