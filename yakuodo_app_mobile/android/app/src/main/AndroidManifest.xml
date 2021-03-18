@@ -1,0 +1,127 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="jp.co.yakuodo.android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- location for sdk -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <!-- sdk -->
+    <uses-feature android:name="android.hardware.location.gps"/>
+    <uses-feature android:name="android.hardware.location.network"/>
+
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- push notification -->
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <application
+      android:largeHeap="true"
+      android:usesCleartextTraffic="true"
+      android:name=".MainApplication"
+      android:label="@string/app_name"
+      android:icon="@mipmap/ic_launcher"
+      android:allowBackup="false"
+      android:roundIcon="@mipmap/ic_launcher"
+      android:theme="@style/AppTheme"
+      >
+<!-- camera -->
+      <meta-data
+      android:name="com.google.firebase.ml.vision.DEPENDENCIES"
+      android:value="ocr" />
+      <!-- idfa -->
+      <meta-data
+            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+            android:value="true"/>
+
+        <meta-data  android:name="com.dieam.reactnativepushnotification.notification_channel_name"
+            android:value="jp.co.yakuodo.android"/>
+            <meta-data  android:name="com.dieam.reactnativepushnotification.notification_channel_description"
+            android:value="jp.co.yakuodo.android channel description"/>
+            <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+            <!-- sdk -->
+            <meta-data android:name="ads_app_id" android:value="YAKUO1"/>
+        <!-- <meta-data android:name="ads_app_id" android:value="YAKUO_DEV"/> -->
+        <meta-data android:name="ads_app_key" android:value="APPKEY_DEMO_ANDROID"/>
+        <meta-data android:name="ads_app_name" android:value="薬王堂公式アプリ"/>
+        <meta-data android:name="ads_company_id" android:value="INC_YAKUODO"/>
+         <!-- sdk -->
+        <service
+            android:name="jp.co.android.ads.AdsSdkJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" >
+        </service>
+        <receiver
+            android:name="jp.co.android.ads.GeofenceBroadcastReceiver"
+            />
+        <service
+            android:name="jp.co.android.ads.GeofenceTransitionsJobIntentService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+
+<!-- fcm -->
+<meta-data  android:name="com.dieam.reactnativepushnotification.notification_color"
+            android:resource="@android:color/white"/>
+        
+        <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher" />
+        <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationRegistrationService"/>
+        <service
+            android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+
+      <activity
+        android:name=".MainActivity"
+        android:launchMode="singleTask"
+        android:label="@string/app_name"
+        android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+        android:windowSoftInputMode="adjustResize"
+        >
+        
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        
+        <!-- deeplink -->
+        <intent-filter>
+            <action android:name="android.intent.action.VIEW"/>
+            <category android:name="android.intent.category.DEFAULT"/>
+            <category android:name="android.intent.category.BROWSABLE"/>
+
+            <data android:scheme="https"
+                android:host="yakuodo.shop-analyze.com"
+            />
+          
+<!--            <data android:scheme="https"-->
+<!--                android:host="dev.yakuodo.shop-analyze.com"-->
+<!--            />-->
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="jp.co.yakuodo.public"
+                />
+            </intent-filter>
+      </activity>
+      <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+      <service android:name="eddystone.ScanBeaconService" android:exported="false"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,38 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.rn_base">
+
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.VIBRATE" />
+  <uses-permission android:name="android.permission.CAMERA" />
+  <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+
+  <!-- Xin quyền location -->
+  <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+  <!-- Xin quyền chỉnh sửa độ sáng màn hình -->
+  <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+
+  <application android:usesCleartextTraffic="true" android:name=".MainApplication" android:label="@string/app_name" android:icon="@mipmap/ic_launcher" android:roundIcon="@mipmap/bootsplash_logo" android:allowBackup="false" android:theme="@style/AppTheme">
+    <activity android:name=".MainActivity" android:label="@string/app_name" android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode" android:launchMode="singleTask" android:windowSoftInputMode="adjustResize" android:exported="true">
+      <!-- Xóa intent-filter trong này đi -->
+    </activity>
+    <!-- Thêm đoạn này vào để cấu hình ảnh splash  -->
+    <activity android:name="com.zoontek.rnbootsplash.RNBootSplashActivity" android:theme="@style/BootTheme" android:launchMode="singleTask">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <!-- … -->
+    <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+
+    <!--Thêm đoạn này để cấu hình Map: key này lấy từ projects:  react-native base -->
+    <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyCvTGmxbx2YUcaLHA8XYY_sKuOycyNL1P0"/>
+    <!--Thêm đoạn này để cấu hình FB-SDK: https://developers.facebook.com/quickstarts/921259178281044/?platform=android -->
+    <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+    <!-- You will also only need to add this uses-library tag -->
+    <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+  </application>
+
+</manifest>

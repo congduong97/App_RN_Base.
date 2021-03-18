@@ -1,0 +1,46 @@
+# 4.1.0
+
+Since jcenter wiped old build tools on their side we're forced to upgrade this
+
+Upgraded Android
+buildToolsVersion to 28.0.3
+and compileSdkVersion to 28
+
+# 4.0.3
+
+Added running e2e tests
+Various clean ups
+Added flowtype definitions
+
+# 4.0.2
+
+Some small refactorings and added example/Basic into main repo 
+Added explicit LICENSE file
+
+# 4.0.1 
+
+Just updated README to reflect the new naming
+
+# 4.0.0
+
+Renamed project to allow usage from gradle 5.0
+
+# 3.0.0
+
+Ignore garbage from being published to npm
+Allow the project to respect the root project's compileSdkVersion, buildToolsVersion, minSdkVersion, targetSdkVersion
+
+# 2.1.0
+
+- minSdkVersion is now 16 instead of 21
+
+# 2.0.0
+
+- Removed dead code from examples/Basic
+- Updated Podspec to contain correct repo
+- Fixed import statement in README
+- Enable BITCODE in ios
+- Supporting < 10 since of the change below
+- Making sure to check wether we can return and invoke the advertising id in both platforms or not
+- Updated google play services to use latest version always in gradle config, if you want another version see resolver solution: https://github.com/ptomasroos/react-native-idfa/issues/10#issuecomment-357412582
+-

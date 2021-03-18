@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "940581285110",
+    "firebase_url": "https://yakuodo-5256c.firebaseio.com",
+    "project_id": "yakuodo-5256c",
+    "storage_bucket": "yakuodo-5256c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940581285110:android:6edb8ef10fd6f33a",
+        "android_client_info": {
+          "package_name": "jp.co.yakuodo.android.public"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940581285110-r9q6a0hki0b79ioa7ocjc79hopvuh64p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeLQLZnA4naxBFWKNGRa0Sgua4xhCLPTw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "127003506541",
+    "firebase_url": "https://yoneyama-8de9a.firebaseio.com",
+    "project_id": "yoneyama-8de9a",
+    "storage_bucket": "yoneyama-8de9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127003506541:android:20c713169d99ae3defcc64",
+        "android_client_info": {
+          "package_name": "com.yoneyama_app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127003506541-malgq794j8se2m0odk7km7m5d2s0h20b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yoneyama_app.dev",
+            "certificate_hash": "d467a43ef1bc6c32fe7cc667c4335f4985626edf"
+          }
+        },
+        {
+          "client_id": "127003506541-e820or7sc1tcnvpdvvl8t09hhloelomv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_vaLRx0Fea8cldan4Dvzl2_0X--Awt2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127003506541-e820or7sc1tcnvpdvvl8t09hhloelomv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

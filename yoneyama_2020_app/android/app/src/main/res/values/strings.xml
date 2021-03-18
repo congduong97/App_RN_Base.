@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YoneyamaDev</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">zdwCfGUwRGxi4RgIexAgIBLi1cgqGD3rwf5cE</string>
+</resources>
