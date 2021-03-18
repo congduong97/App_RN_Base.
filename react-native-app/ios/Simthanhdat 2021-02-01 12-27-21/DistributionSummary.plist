@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>simthanhdat.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>AFCD37AF8170E144B90F12BE62C872A9A5A67473</string>
+				<key>dateExpires</key>
+				<string>1/27/22</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<true/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>AFCD37AF8170E144B90F12BE62C872A9A5A67473</string>
+						<key>dateExpires</key>
+						<string>1/27/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>entitlements</key>
+					<dict>
+						<key>application-identifier</key>
+						<string>TJA39X8HM7.Sim.SimTD.OneSignalNotificationServiceExtension</string>
+						<key>beta-reports-active</key>
+						<true/>
+						<key>com.apple.developer.team-identifier</key>
+						<string>TJA39X8HM7</string>
+						<key>get-task-allow</key>
+						<false/>
+						<key>keychain-access-groups</key>
+						<array>
+							<string>TJA39X8HM7.Sim.SimTD.OneSignalNotificationServiceExtension</string>
+						</array>
+					</dict>
+					<key>name</key>
+					<string>OneSignalNotificationServiceExtension.appex</string>
+					<key>profile</key>
+					<dict>
+						<key>UUID</key>
+						<string>9f509378-b312-4f85-9cc6-67c8e820a958</string>
+						<key>name</key>
+						<string>iOS Team Store Provisioning Profile: Sim.SimTD.OneSignalNotificationServiceExtension</string>
+					</dict>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>TJA39X8HM7</string>
+						<key>name</key>
+						<string>EVOTEK VIET NAM TECHNOLOGY JOINT STOCK COMPANY</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>TJA39X8HM7.Sim.SimTD</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>TJA39X8HM7</string>
+				<key>com.apple.security.application-groups</key>
+				<array>
+					<string>group.Sim.SimTD.onesignal</string>
+				</array>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>simthanhdat.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>d54ff54c-9a8b-4a0c-aef2-3e2b3b25ad31</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: Sim.SimTD</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>TJA39X8HM7</string>
+				<key>name</key>
+				<string>EVOTEK VIET NAM TECHNOLOGY JOINT STOCK COMPANY</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

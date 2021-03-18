@@ -1,0 +1,1125 @@
+2021-02-01 03:19:31 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f99b53963a0; archive(resolved)='<IDEArchive: 0x7f9a1c114290>', distributionTask(resolved)='2', distributionDestination(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f99cfac4e60>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9a1ee78ad0; teamID='TJA39X8HM7', teamName='EVOTEK VIET NAM TECHNOLOGY JOINT STOCK COMPANY', teamType='Company', username='dekapro9x@gmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (13, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f99b53963a0; archive = '<IDEArchive: 0x7f9a1c114290>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f99cfac4e60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9a1ee78ad0; teamID='TJA39X8HM7', teamName='EVOTEK VIET NAM TECHNOLOGY JOINT STOCK COMPANY', teamType='Company', username='dekapro9x@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7f99b5232020; archive = '<IDEArchive: 0x7f9a1c114290>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f99cfac4e60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9a1ee78ad0; teamID='TJA39X8HM7', teamName='EVOTEK VIET NAM TECHNOLOGY JOINT STOCK COMPANY', teamType='Company', username='dekapro9x@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f99b53970c0; archive = '<IDEArchive: 0x7f9a1c114290>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f99cfac4e60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9a1ee78ad0; teamID='TJA39X8HM7', teamName='EVOTEK VIET NAM TECHNOLOGY JOINT STOCK COMPANY', teamType='Company', username='dekapro9x@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f99af7cf400; archive = '<IDEArchive: 0x7f9a1c114290>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f99cfac4e60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9a1ee78ad0; teamID='TJA39X8HM7', teamName='EVOTEK VIET NAM TECHNOLOGY JOINT STOCK COMPANY', teamType='Company', username='dekapro9x@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f99b54194a0; archive = '<IDEArchive: 0x7f9a1c114290>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f99cfac4e60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9a1ee78ad0; teamID='TJA39X8HM7', teamName='EVOTEK VIET NAM TECHNOLOGY JOINT STOCK COMPANY', teamType='Company', username='dekapro9x@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f99b0b4be00; archive = '<IDEArchive: 0x7f9a1c114290>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f99cfac4e60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9a1ee78ad0; teamID='TJA39X8HM7', teamName='EVOTEK VIET NAM TECHNOLOGY JOINT STOCK COMPANY', teamType='Company', username='dekapro9x@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f99b0b09b20; archive = '<IDEArchive: 0x7f9a1c114290>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f99cfac4e60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9a1ee78ad0; teamID='TJA39X8HM7', teamName='EVOTEK VIET NAM TECHNOLOGY JOINT STOCK COMPANY', teamType='Company', username='dekapro9x@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f99af7eb130; archive = '<IDEArchive: 0x7f9a1c114290>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f99cfac4e60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9a1ee78ad0; teamID='TJA39X8HM7', teamName='EVOTEK VIET NAM TECHNOLOGY JOINT STOCK COMPANY', teamType='Company', username='dekapro9x@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f99af7e1bf0; archive = '<IDEArchive: 0x7f9a1c114290>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f99cfac4e60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9a1ee78ad0; teamID='TJA39X8HM7', teamName='EVOTEK VIET NAM TECHNOLOGY JOINT STOCK COMPANY', teamType='Company', username='dekapro9x@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f99b0b4b3d0; archive = '<IDEArchive: 0x7f9a1c114290>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f99cfac4e60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9a1ee78ad0; teamID='TJA39X8HM7', teamName='EVOTEK VIET NAM TECHNOLOGY JOINT STOCK COMPANY', teamType='Company', username='dekapro9x@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f99aed51530; archive = '<IDEArchive: 0x7f9a1c114290>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f99cfac4e60>', team='(null)'>
+	<IDEDistributionContext: 0x7f99cfcd4800; archive = '<IDEArchive: 0x7f9a1c114290>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f99cfac4e60>', team='(null)'>
+	<IDEDistributionContext: 0x7f99aec60350; archive = '<IDEArchive: 0x7f9a1c114290>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7f99b53963a0>
+2021-02-01 03:19:31 +0000  Processing step: IDEDistributionCreateDestRootStep
+2021-02-01 03:19:31 +0000  Processing step: IDEDistributionCopyItemStep
+2021-02-01 03:19:31 +0000  Running /usr/bin/ditto '-V' '/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app'
+2021-02-01 03:19:31 +0000  >>> Copying /Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app 
+2021-02-01 03:19:31 +0000  copying file ./_CodeSignature/CodeResources ... 
+2021-02-01 03:19:31 +0000  37623 bytes for ./_CodeSignature/CodeResources
+2021-02-01 03:19:31 +0000  copying file ./Fontisto.ttf ... 
+2021-02-01 03:19:31 +0000  313528 bytes for ./Fontisto.ttf
+2021-02-01 03:19:31 +0000  copying file ./Octicons.ttf ... 
+2021-02-01 03:19:31 +0000  28364 bytes for ./Octicons.ttf
+copying file ./Feather.ttf ... 
+2021-02-01 03:19:31 +0000  56024 bytes for ./Feather.ttf
+2021-02-01 03:19:31 +0000  copying file ./Entypo.ttf ... 
+2021-02-01 03:19:31 +0000  65584 bytes for ./Entypo.ttf
+copying file ./FiraSans-Medium.ttf ... 
+2021-02-01 03:19:31 +0000  441000 bytes for ./FiraSans-Medium.ttf
+copying file ./FiraSans-Bold.ttf ... 
+2021-02-01 03:19:31 +0000  473492 bytes for ./FiraSans-Bold.ttf
+2021-02-01 03:19:31 +0000  copying file ./FontAwesome5_Brands.ttf ... 
+2021-02-01 03:19:31 +0000  132728 bytes for ./FontAwesome5_Brands.ttf
+2021-02-01 03:19:31 +0000  copying file ./MaterialCommunityIcons.ttf ... 
+2021-02-01 03:19:32 +0000  899432 bytes for ./MaterialCommunityIcons.ttf
+2021-02-01 03:19:32 +0000  copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/_CodeSignature/CodeResources ... 
+2021-02-01 03:19:32 +0000  6199 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/_CodeSignature/CodeResources
+copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/Fontisto.ttf ... 
+2021-02-01 03:19:32 +0000  313528 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/Fontisto.ttf
+copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/Octicons.ttf ... 
+2021-02-01 03:19:32 +0000  28364 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/Octicons.ttf
+2021-02-01 03:19:32 +0000  copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/Feather.ttf ... 
+2021-02-01 03:19:32 +0000  56024 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/Feather.ttf
+copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/Entypo.ttf ... 
+2021-02-01 03:19:32 +0000  65584 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/Entypo.ttf
+2021-02-01 03:19:32 +0000  copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/FontAwesome5_Brands.ttf ... 
+2021-02-01 03:19:32 +0000  132728 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/FontAwesome5_Brands.ttf
+copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/MaterialCommunityIcons.ttf ... 
+2021-02-01 03:19:32 +0000  899432 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/MaterialCommunityIcons.ttf
+copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/AntDesign.ttf ... 
+2021-02-01 03:19:32 +0000  70344 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/AntDesign.ttf
+2021-02-01 03:19:32 +0000  copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/Foundation.ttf ... 
+2021-02-01 03:19:32 +0000  56976 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/Foundation.ttf
+2021-02-01 03:19:32 +0000  copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/Ionicons.ttf ... 
+2021-02-01 03:19:32 +0000  247192 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/Ionicons.ttf
+2021-02-01 03:19:32 +0000  copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/FontAwesome5_Solid.ttf ... 
+2021-02-01 03:19:32 +0000  202616 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/FontAwesome5_Solid.ttf
+2021-02-01 03:19:32 +0000  copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/FontAwesome5_Regular.ttf ... 
+2021-02-01 03:19:32 +0000  34092 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/FontAwesome5_Regular.ttf
+copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension ... 
+2021-02-01 03:19:32 +0000  94591136 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension
+2021-02-01 03:19:32 +0000  copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2021-02-01 03:19:32 +0000  530 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/AccessibilityResources.bundle/en.lproj/Localizable.strings
+2021-02-01 03:19:32 +0000  copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/AccessibilityResources.bundle/Info.plist ... 
+2021-02-01 03:19:32 +0000  746 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/AccessibilityResources.bundle/Info.plist
+copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/FontAwesome.ttf ... 
+2021-02-01 03:19:32 +0000  165548 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/FontAwesome.ttf
+copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/Zocial.ttf ... 
+2021-02-01 03:19:32 +0000  25552 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/Zocial.ttf
+copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/EvilIcons.ttf ... 
+2021-02-01 03:19:32 +0000  13456 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/EvilIcons.ttf
+copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/SimpleLineIcons.ttf ... 
+2021-02-01 03:19:32 +0000  54056 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/SimpleLineIcons.ttf
+copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/embedded.mobileprovision ... 
+2021-02-01 03:19:32 +0000  11913 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/embedded.mobileprovision
+copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/Info.plist ... 
+2021-02-01 03:19:32 +0000  984 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/Info.plist
+copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/MaterialIcons.ttf ... 
+2021-02-01 03:19:32 +0000  230384 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/MaterialIcons.ttf
+2021-02-01 03:19:32 +0000  copying file ./AppIcon60x60@2x.png ... 
+2021-02-01 03:19:32 +0000  29061 bytes for ./AppIcon60x60@2x.png
+copying file ./AntDesign.ttf ... 
+2021-02-01 03:19:32 +0000  70344 bytes for ./AntDesign.ttf
+copying file ./Foundation.ttf ... 
+2021-02-01 03:19:32 +0000  56976 bytes for ./Foundation.ttf
+2021-02-01 03:19:32 +0000  copying file ./Ionicons.ttf ... 
+2021-02-01 03:19:32 +0000  247192 bytes for ./Ionicons.ttf
+2021-02-01 03:19:32 +0000  copying file ./FontAwesome5_Solid.ttf ... 
+2021-02-01 03:19:32 +0000  202616 bytes for ./FontAwesome5_Solid.ttf
+2021-02-01 03:19:32 +0000  copying file ./FontAwesome5_Regular.ttf ... 
+2021-02-01 03:19:32 +0000  34092 bytes for ./FontAwesome5_Regular.ttf
+copying file ./Avenir-Bold-Condensed.ttf ... 
+2021-02-01 03:19:32 +0000  71060 bytes for ./Avenir-Bold-Condensed.ttf
+2021-02-01 03:19:32 +0000  copying file ./AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2021-02-01 03:19:32 +0000  530 bytes for ./AccessibilityResources.bundle/en.lproj/Localizable.strings
+2021-02-01 03:19:32 +0000  copying file ./AccessibilityResources.bundle/Info.plist ... 
+2021-02-01 03:19:32 +0000  746 bytes for ./AccessibilityResources.bundle/Info.plist
+2021-02-01 03:19:32 +0000  copying file ./GoogleService-Info.plist ... 
+2021-02-01 03:19:32 +0000  804 bytes for ./GoogleService-Info.plist
+2021-02-01 03:19:32 +0000  copying file ./Base.lproj/LaunchScreen.nib ... 
+2021-02-01 03:19:32 +0000  1311 bytes for ./Base.lproj/LaunchScreen.nib
+2021-02-01 03:19:32 +0000  copying file ./FontAwesome.ttf ... 
+2021-02-01 03:19:32 +0000  165548 bytes for ./FontAwesome.ttf
+2021-02-01 03:19:32 +0000  copying file ./Zocial.ttf ... 
+2021-02-01 03:19:32 +0000  25552 bytes for ./Zocial.ttf
+2021-02-01 03:19:32 +0000  copying file ./simthanhdat ... 
+2021-02-01 03:19:32 +0000  94351584 bytes for ./simthanhdat
+copying file ./Assets.car ... 
+2021-02-01 03:19:32 +0000  2305551 bytes for ./Assets.car
+copying file ./EvilIcons.ttf ... 
+2021-02-01 03:19:32 +0000  13456 bytes for ./EvilIcons.ttf
+copying file ./AppIcon76x76@2x~ipad.png ... 
+2021-02-01 03:19:32 +0000  44676 bytes for ./AppIcon76x76@2x~ipad.png
+2021-02-01 03:19:32 +0000  copying file ./main.jsbundle ... 
+2021-02-01 03:19:32 +0000  3310847 bytes for ./main.jsbundle
+2021-02-01 03:19:32 +0000  copying file ./VinaToTek.ttf ... 
+2021-02-01 03:19:32 +0000  17844 bytes for ./VinaToTek.ttf
+2021-02-01 03:19:32 +0000  copying file ./Frameworks/libswiftCoreImage.dylib ... 
+2021-02-01 03:19:32 +0000  466560 bytes for ./Frameworks/libswiftCoreImage.dylib
+2021-02-01 03:19:32 +0000  copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+2021-02-01 03:19:32 +0000  679680 bytes for ./Frameworks/libswiftObjectiveC.dylib
+2021-02-01 03:19:32 +0000  copying file ./Frameworks/libswiftCore.dylib ... 
+2021-02-01 03:19:33 +0000  95497584 bytes for ./Frameworks/libswiftCore.dylib
+2021-02-01 03:19:33 +0000  copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+2021-02-01 03:19:33 +0000  2041040 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+2021-02-01 03:19:33 +0000  copying file ./Frameworks/libswiftUIKit.dylib ... 
+2021-02-01 03:19:33 +0000  1608800 bytes for ./Frameworks/libswiftUIKit.dylib
+2021-02-01 03:19:33 +0000  copying file ./Frameworks/libswiftMetal.dylib ... 
+2021-02-01 03:19:33 +0000  724416 bytes for ./Frameworks/libswiftMetal.dylib
+2021-02-01 03:19:33 +0000  copying file ./Frameworks/libswiftDispatch.dylib ... 
+2021-02-01 03:19:33 +0000  4056896 bytes for ./Frameworks/libswiftDispatch.dylib
+2021-02-01 03:19:33 +0000  copying file ./Frameworks/libswiftos.dylib ... 
+2021-02-01 03:19:33 +0000  857184 bytes for ./Frameworks/libswiftos.dylib
+2021-02-01 03:19:33 +0000  copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+2021-02-01 03:19:33 +0000  450384 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+2021-02-01 03:19:33 +0000  copying file ./Frameworks/libswiftDarwin.dylib ... 
+2021-02-01 03:19:33 +0000  1091440 bytes for ./Frameworks/libswiftDarwin.dylib
+2021-02-01 03:19:33 +0000  copying file ./Frameworks/libswiftQuartzCore.dylib ... 
+2021-02-01 03:19:33 +0000  486336 bytes for ./Frameworks/libswiftQuartzCore.dylib
+copying file ./Frameworks/libswiftFoundation.dylib ... 
+2021-02-01 03:19:33 +0000  43094320 bytes for ./Frameworks/libswiftFoundation.dylib
+2021-02-01 03:19:33 +0000  copying file ./SimpleLineIcons.ttf ... 
+2021-02-01 03:19:33 +0000  54056 bytes for ./SimpleLineIcons.ttf
+2021-02-01 03:19:33 +0000  copying file ./embedded.mobileprovision ... 
+2021-02-01 03:19:33 +0000  11799 bytes for ./embedded.mobileprovision
+2021-02-01 03:19:33 +0000  copying file ./assets/app.json ... 
+2021-02-01 03:19:33 +0000  65 bytes for ./assets/app.json
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png ... 
+2021-02-01 03:19:33 +0000  761 bytes for ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png ... 
+2021-02-01 03:19:33 +0000  405 bytes for ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png ... 
+2021-02-01 03:19:33 +0000  290 bytes for ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png ... 
+2021-02-01 03:19:33 +0000  913 bytes for ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/react-native-paper/src/assets/back-chevron.png ... 
+2021-02-01 03:19:33 +0000  489 bytes for ./assets/node_modules/react-native-paper/src/assets/back-chevron.png
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/react-native-vector-icons/glyphmaps/Ionicons.json ... 
+2021-02-01 03:19:33 +0000  106287 bytes for ./assets/node_modules/react-native-vector-icons/glyphmaps/Ionicons.json
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/react-native-vector-icons/glyphmaps/Fontisto.json ... 
+2021-02-01 03:19:33 +0000  13107 bytes for ./assets/node_modules/react-native-vector-icons/glyphmaps/Fontisto.json
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/react-native-vector-icons/glyphmaps/EvilIcons.json ... 
+2021-02-01 03:19:33 +0000  1454 bytes for ./assets/node_modules/react-native-vector-icons/glyphmaps/EvilIcons.json
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/react-native-vector-icons/glyphmaps/Octicons.json ... 
+2021-02-01 03:19:33 +0000  3992 bytes for ./assets/node_modules/react-native-vector-icons/glyphmaps/Octicons.json
+copying file ./assets/node_modules/react-native-vector-icons/glyphmaps/FontAwesome5Free_meta.json ... 
+2021-02-01 03:19:33 +0000  27903 bytes for ./assets/node_modules/react-native-vector-icons/glyphmaps/FontAwesome5Free_meta.json
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/react-native-vector-icons/glyphmaps/FontAwesome.json ... 
+2021-02-01 03:19:33 +0000  17437 bytes for ./assets/node_modules/react-native-vector-icons/glyphmaps/FontAwesome.json
+copying file ./assets/node_modules/react-native-vector-icons/glyphmaps/MaterialIcons.json ... 
+2021-02-01 03:19:33 +0000  38522 bytes for ./assets/node_modules/react-native-vector-icons/glyphmaps/MaterialIcons.json
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/react-native-vector-icons/glyphmaps/Entypo.json ... 
+2021-02-01 03:19:33 +0000  9486 bytes for ./assets/node_modules/react-native-vector-icons/glyphmaps/Entypo.json
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/react-native-vector-icons/glyphmaps/SimpleLineIcons.json ... 
+2021-02-01 03:19:33 +0000  4102 bytes for ./assets/node_modules/react-native-vector-icons/glyphmaps/SimpleLineIcons.json
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/react-native-vector-icons/glyphmaps/AntDesign.json ... 
+2021-02-01 03:19:33 +0000  6303 bytes for ./assets/node_modules/react-native-vector-icons/glyphmaps/AntDesign.json
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/react-native-vector-icons/glyphmaps/FontAwesome5Free.json ... 
+2021-02-01 03:19:33 +0000  32278 bytes for ./assets/node_modules/react-native-vector-icons/glyphmaps/FontAwesome5Free.json
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/react-native-vector-icons/glyphmaps/Feather.json ... 
+2021-02-01 03:19:33 +0000  6080 bytes for ./assets/node_modules/react-native-vector-icons/glyphmaps/Feather.json
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/react-native-vector-icons/glyphmaps/MaterialCommunityIcons.json ... 
+2021-02-01 03:19:33 +0000  151816 bytes for ./assets/node_modules/react-native-vector-icons/glyphmaps/MaterialCommunityIcons.json
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/react-native-vector-icons/glyphmaps/Foundation.json ... 
+2021-02-01 03:19:33 +0000  6417 bytes for ./assets/node_modules/react-native-vector-icons/glyphmaps/Foundation.json
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/react-native-vector-icons/glyphmaps/Zocial.json ... 
+2021-02-01 03:19:33 +0000  2013 bytes for ./assets/node_modules/react-native-vector-icons/glyphmaps/Zocial.json
+2021-02-01 03:19:33 +0000  copying file ./assets/node_modules/realm/package.json ... 
+2021-02-01 03:19:33 +0000  6285 bytes for ./assets/node_modules/realm/package.json
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/images/cmnd-back.jpg ... 
+2021-02-01 03:19:33 +0000  79828 bytes for ./assets/assets/images/cmnd-back.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/images/cmnd-front.jpg ... 
+2021-02-01 03:19:33 +0000  58772 bytes for ./assets/assets/images/cmnd-front.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/icons/viettel.png ... 
+2021-02-01 03:19:33 +0000  20020 bytes for ./assets/assets/icons/viettel.png
+copying file ./assets/assets/icons/vietnammobile.png ... 
+2021-02-01 03:19:33 +0000  7426 bytes for ./assets/assets/icons/vietnammobile.png
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/icons/record-button.png ... 
+2021-02-01 03:19:33 +0000  1232 bytes for ./assets/assets/icons/record-button.png
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/icons/mobi.png ... 
+2021-02-01 03:19:33 +0000  9071 bytes for ./assets/assets/icons/mobi.png
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/icons/help.png ... 
+2021-02-01 03:19:33 +0000  3110 bytes for ./assets/assets/icons/help.png
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/icons/logo.png ... 
+2021-02-01 03:19:33 +0000  38839 bytes for ./assets/assets/icons/logo.png
+copying file ./assets/assets/icons/mobilogo.png ... 
+2021-02-01 03:19:33 +0000  8213 bytes for ./assets/assets/icons/mobilogo.png
+copying file ./assets/assets/icons/viettellogo.png ... 
+2021-02-01 03:19:33 +0000  60122 bytes for ./assets/assets/icons/viettellogo.png
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/icons/beline.png ... 
+2021-02-01 03:19:33 +0000  9672 bytes for ./assets/assets/icons/beline.png
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/icons/noimage.png ... 
+2021-02-01 03:19:33 +0000  47605 bytes for ./assets/assets/icons/noimage.png
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/icons/vinalogo.png ... 
+2021-02-01 03:19:33 +0000  17264 bytes for ./assets/assets/icons/vinalogo.png
+copying file ./assets/assets/icons/facebook_sharp.png ... 
+2021-02-01 03:19:33 +0000  982 bytes for ./assets/assets/icons/facebook_sharp.png
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/icons/boy.png ... 
+2021-02-01 03:19:33 +0000  3860 bytes for ./assets/assets/icons/boy.png
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/icons/vinaphone.png ... 
+2021-02-01 03:19:33 +0000  6161 bytes for ./assets/assets/icons/vinaphone.png
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/selection.json ... 
+2021-02-01 03:19:33 +0000  77823 bytes for ./assets/assets/selection.json
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/IMG_8448.jpg ... 
+2021-02-01 03:19:33 +0000  78675 bytes for ./assets/assets/templates/IMG_8448.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/IMG_8461.jpg ... 
+2021-02-01 03:19:33 +0000  206893 bytes for ./assets/assets/templates/IMG_8461.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/IMG_8475.jpg ... 
+2021-02-01 03:19:33 +0000  22263 bytes for ./assets/assets/templates/IMG_8475.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/IMG_8449.jpg ... 
+2021-02-01 03:19:33 +0000  72811 bytes for ./assets/assets/templates/IMG_8449.jpg
+copying file ./assets/assets/templates/IMG_8477.jpg ... 
+2021-02-01 03:19:33 +0000  82973 bytes for ./assets/assets/templates/IMG_8477.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/IMG_8476.jpg ... 
+2021-02-01 03:19:33 +0000  49729 bytes for ./assets/assets/templates/IMG_8476.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/IMG_8462.jpg ... 
+2021-02-01 03:19:33 +0000  304152 bytes for ./assets/assets/templates/IMG_8462.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/IMG_8473.jpg ... 
+2021-02-01 03:19:33 +0000  112749 bytes for ./assets/assets/templates/IMG_8473.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/IMG_8467.jpg ... 
+2021-02-01 03:19:33 +0000  48819 bytes for ./assets/assets/templates/IMG_8467.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/8.jpg ... 
+2021-02-01 03:19:33 +0000  41661 bytes for ./assets/assets/templates/8.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/IMG_8471.jpg ... 
+2021-02-01 03:19:33 +0000  117865 bytes for ./assets/assets/templates/IMG_8471.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/IMG_8459.jpg ... 
+2021-02-01 03:19:33 +0000  109457 bytes for ./assets/assets/templates/IMG_8459.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/IMG_8470.jpg ... 
+2021-02-01 03:19:33 +0000  37817 bytes for ./assets/assets/templates/IMG_8470.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/4.jpg ... 
+2021-02-01 03:19:33 +0000  20063 bytes for ./assets/assets/templates/4.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/IMG_8441.jpg ... 
+2021-02-01 03:19:33 +0000  51750 bytes for ./assets/assets/templates/IMG_8441.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/5.jpg ... 
+2021-02-01 03:19:33 +0000  64897 bytes for ./assets/assets/templates/5.jpg
+copying file ./assets/assets/templates/7.jpg ... 
+2021-02-01 03:19:33 +0000  127224 bytes for ./assets/assets/templates/7.jpg
+copying file ./assets/assets/templates/IMG_8480.jpg ... 
+2021-02-01 03:19:33 +0000  51288 bytes for ./assets/assets/templates/IMG_8480.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/6.jpg ... 
+2021-02-01 03:19:33 +0000  183739 bytes for ./assets/assets/templates/6.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/2.jpg ... 
+2021-02-01 03:19:33 +0000  101826 bytes for ./assets/assets/templates/2.jpg
+copying file ./assets/assets/templates/IMG_8447.jpg ... 
+2021-02-01 03:19:33 +0000  85463 bytes for ./assets/assets/templates/IMG_8447.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/IMG_8446.jpg ... 
+2021-02-01 03:19:33 +0000  64536 bytes for ./assets/assets/templates/IMG_8446.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/3.jpg ... 
+2021-02-01 03:19:33 +0000  68293 bytes for ./assets/assets/templates/3.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/1.jpg ... 
+2021-02-01 03:19:33 +0000  35656 bytes for ./assets/assets/templates/1.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/IMG_8444.jpg ... 
+2021-02-01 03:19:33 +0000  106018 bytes for ./assets/assets/templates/IMG_8444.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/IMG_8478.jpg ... 
+2021-02-01 03:19:33 +0000  171119 bytes for ./assets/assets/templates/IMG_8478.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/IMG_8479.jpg ... 
+2021-02-01 03:19:33 +0000  69282 bytes for ./assets/assets/templates/IMG_8479.jpg
+2021-02-01 03:19:33 +0000  copying file ./assets/assets/templates/IMG_8445.jpg ... 
+2021-02-01 03:19:33 +0000  80264 bytes for ./assets/assets/templates/IMG_8445.jpg
+2021-02-01 03:19:33 +0000  copying file ./FiraSans-Regular.ttf ... 
+2021-02-01 03:19:33 +0000  440560 bytes for ./FiraSans-Regular.ttf
+copying file ./Info.plist ... 
+2021-02-01 03:19:33 +0000  4329 bytes for ./Info.plist
+2021-02-01 03:19:33 +0000  copying file ./PkgInfo ... 
+2021-02-01 03:19:33 +0000  8 bytes for ./PkgInfo
+copying file ./MaterialIcons.ttf ... 
+2021-02-01 03:19:33 +0000  230384 bytes for ./MaterialIcons.ttf
+2021-02-01 03:19:33 +0000  /usr/bin/ditto exited with 0
+2021-02-01 03:19:33 +0000  Processing step: IDEDistributionEmbedProfileStep
+2021-02-01 03:19:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f99cfa610d0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7f99aec0a020:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99b0919600; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a24db2140; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1bb93850>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7f99aec0a020:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f99af1ad490; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7f9a0f826360:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aede8130; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a24db2140; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1bb63790>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7f9a0f826360:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f99aedbf8b0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7f9a10725d60:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99af6c79a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99b0cf15e0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f99aec70420>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7f9a10725d60:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f99af0effa0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7f9a29f7eb50:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99cfaf9fb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a24db2140; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1bb93850>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7f9a29f7eb50:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f99b0a6df10; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7f99dea39be0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aedc0290; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99af6133c0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f99cfa42170>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7f99dea39be0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f99cfae1030; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7f99aece7660:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99ff1b6830; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a24db2140; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1bb63790>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7f99aece7660:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f99af6fb7b0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7f9a1b20bd40:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99af7c1450; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99b0cf15e0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a0fc97db0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7f9a1b20bd40:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f99aeddaa20; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7f99aec1e810:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aed26190; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99b0cf15e0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a0fcfe250>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7f99aec1e810:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f99cfa4df80; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7f99b080c3b0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aed65350; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a24db2140; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1bb5b1a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7f99b080c3b0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f99af7641c0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7f99aecd2b50:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9a1c3d0490; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99b0cf15e0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a0fcfe250>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7f99aecd2b50:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f99aedb1330; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7f99cfa62c60:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aeda61c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99b0cf15e0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a0fc97db0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7f99cfa62c60:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:33 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f99aed54d30; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7f99b080a860:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99af6d9250; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99b0cf15e0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a0fcfe250>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7f99b080a860:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:33 +0000  Processing step: IDEDistributionInfoPlistStep
+2021-02-01 03:19:33 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-02-01 03:19:33 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-02-01 03:19:33 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-02-01 03:19:33 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-02-01 03:19:33 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-02-01 03:19:33 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-02-01 03:19:33 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-02-01 03:19:33 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-02-01 03:19:33 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-02-01 03:19:33 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-02-01 03:19:33 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-02-01 03:19:33 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-02-01 03:19:33 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-02-01 03:19:33 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-02-01 03:19:33 +0000  Processing step: IDEDistributionItemRemovalStep
+2021-02-01 03:19:33 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2021-02-01 03:19:33 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2021-02-01 03:19:33 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2021-02-01 03:19:33 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2021-02-01 03:19:33 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2021-02-01 03:19:34 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension' '-l' '-o' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension'
+2021-02-01 03:19:34 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-02-01 03:19:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/simthanhdat' '-l' '-o' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/simthanhdat'
+2021-02-01 03:19:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-02-01 03:19:35 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2021-02-01 03:19:36 +0000  Running /usr/bin/ditto '-V' '/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/BCSymbolMaps/7A3B99BF-9944-3E25-A8AC-2F1601CBEB2D.bcsymbolmap' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/BCSymbolMaps/7A3B99BF-9944-3E25-A8AC-2F1601CBEB2D.bcsymbolmap'
+2021-02-01 03:19:36 +0000  >>> Copying /Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/BCSymbolMaps/7A3B99BF-9944-3E25-A8AC-2F1601CBEB2D.bcsymbolmap 
+2021-02-01 03:19:36 +0000  copying file ./7A3B99BF-9944-3E25-A8AC-2F1601CBEB2D.bcsymbolmap ... 
+2021-02-01 03:19:36 +0000  6643476 bytes for ./7A3B99BF-9944-3E25-A8AC-2F1601CBEB2D.bcsymbolmap
+2021-02-01 03:19:36 +0000  /usr/bin/ditto exited with 0
+2021-02-01 03:19:37 +0000  Running /usr/bin/ditto '-V' '/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/BCSymbolMaps/66D273F7-E6D7-31FE-8924-CFE786CEFE44.bcsymbolmap' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/BCSymbolMaps/66D273F7-E6D7-31FE-8924-CFE786CEFE44.bcsymbolmap'
+2021-02-01 03:19:37 +0000  >>> Copying /Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/BCSymbolMaps/66D273F7-E6D7-31FE-8924-CFE786CEFE44.bcsymbolmap 
+2021-02-01 03:19:37 +0000  copying file ./66D273F7-E6D7-31FE-8924-CFE786CEFE44.bcsymbolmap ... 
+2021-02-01 03:19:37 +0000  6643237 bytes for ./66D273F7-E6D7-31FE-8924-CFE786CEFE44.bcsymbolmap
+2021-02-01 03:19:37 +0000  /usr/bin/ditto exited with 0
+2021-02-01 03:19:37 +0000  Processing step: IDEDistributionSymbolsStep
+2021-02-01 03:19:37 +0000  Excluding symbols for libswiftCore.dylib
+2021-02-01 03:19:37 +0000  Excluding symbols for libswiftCoreFoundation.dylib
+2021-02-01 03:19:37 +0000  Excluding symbols for libswiftCoreGraphics.dylib
+2021-02-01 03:19:37 +0000  Excluding symbols for libswiftCoreImage.dylib
+2021-02-01 03:19:37 +0000  Excluding symbols for libswiftDarwin.dylib
+2021-02-01 03:19:38 +0000  Excluding symbols for libswiftDispatch.dylib
+2021-02-01 03:19:38 +0000  Excluding symbols for libswiftFoundation.dylib
+2021-02-01 03:19:38 +0000  Excluding symbols for libswiftMetal.dylib
+2021-02-01 03:19:38 +0000  Excluding symbols for libswiftObjectiveC.dylib
+2021-02-01 03:19:38 +0000  Excluding symbols for libswiftQuartzCore.dylib
+2021-02-01 03:19:38 +0000  Excluding symbols for libswiftUIKit.dylib
+2021-02-01 03:19:38 +0000  Excluding symbols for libswiftos.dylib
+2021-02-01 03:19:38 +0000  Excluding symbols for OneSignalNotificationServiceExtension.appex
+2021-02-01 03:19:38 +0000  Excluding symbols for simthanhdat.app
+2021-02-01 03:19:38 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2021-02-01 03:19:38 +0000  Running /usr/bin/ditto '-V' '/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/SwiftSupport' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/SwiftSupport'
+2021-02-01 03:19:38 +0000  >>> Copying /Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/SwiftSupport 
+2021-02-01 03:19:38 +0000  copying file ./iphoneos/libswiftCoreImage.dylib ... 
+2021-02-01 03:19:38 +0000  533860 bytes for ./iphoneos/libswiftCoreImage.dylib
+2021-02-01 03:19:38 +0000  copying file ./iphoneos/libswiftObjectiveC.dylib ... 
+2021-02-01 03:19:38 +0000  853551 bytes for ./iphoneos/libswiftObjectiveC.dylib
+copying file ./iphoneos/libswiftCore.dylib ... 
+2021-02-01 03:19:38 +0000  140528485 bytes for ./iphoneos/libswiftCore.dylib
+2021-02-01 03:19:38 +0000  copying file ./iphoneos/libswiftCoreGraphics.dylib ... 
+2021-02-01 03:19:38 +0000  2727342 bytes for ./iphoneos/libswiftCoreGraphics.dylib
+copying file ./iphoneos/libswiftUIKit.dylib ... 
+2021-02-01 03:19:38 +0000  2211578 bytes for ./iphoneos/libswiftUIKit.dylib
+2021-02-01 03:19:38 +0000  copying file ./iphoneos/libswiftMetal.dylib ... 
+2021-02-01 03:19:38 +0000  897158 bytes for ./iphoneos/libswiftMetal.dylib
+2021-02-01 03:19:38 +0000  copying file ./iphoneos/libswiftDispatch.dylib ... 
+2021-02-01 03:19:38 +0000  5501326 bytes for ./iphoneos/libswiftDispatch.dylib
+2021-02-01 03:19:38 +0000  copying file ./iphoneos/libswiftos.dylib ... 
+2021-02-01 03:19:38 +0000  1136720 bytes for ./iphoneos/libswiftos.dylib
+2021-02-01 03:19:38 +0000  copying file ./iphoneos/libswiftCoreFoundation.dylib ... 
+2021-02-01 03:19:38 +0000  503572 bytes for ./iphoneos/libswiftCoreFoundation.dylib
+2021-02-01 03:19:38 +0000  copying file ./iphoneos/libswiftDarwin.dylib ... 
+2021-02-01 03:19:38 +0000  1412282 bytes for ./iphoneos/libswiftDarwin.dylib
+copying file ./iphoneos/libswiftQuartzCore.dylib ... 
+2021-02-01 03:19:38 +0000  580069 bytes for ./iphoneos/libswiftQuartzCore.dylib
+2021-02-01 03:19:38 +0000  copying file ./iphoneos/libswiftFoundation.dylib ... 
+2021-02-01 03:19:38 +0000  62290314 bytes for ./iphoneos/libswiftFoundation.dylib
+2021-02-01 03:19:38 +0000  /usr/bin/ditto exited with 0
+2021-02-01 03:19:38 +0000  Processing step: IDEDistributionAppThinningStep
+2021-02-01 03:19:38 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2021-02-01 03:19:38 +0000  Processing step: IDEDistributionArchThinningStep
+2021-02-01 03:19:38 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCore.dylib' '-verify_arch' 'arm64e'
+2021-02-01 03:19:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCore.dylib'
+2021-02-01 03:19:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:39 +0000  Successfully thinned item "libswiftCore.dylib", arch "arm64e"
+2021-02-01 03:19:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib' '-verify_arch' 'arm64e'
+2021-02-01 03:19:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib'
+2021-02-01 03:19:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:39 +0000  Successfully thinned item "libswiftCoreFoundation.dylib", arch "arm64e"
+2021-02-01 03:19:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib' '-verify_arch' 'arm64e'
+2021-02-01 03:19:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib' '-remove' 'arm64e' '-output' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib'
+2021-02-01 03:19:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:39 +0000  Successfully thinned item "libswiftCoreGraphics.dylib", arch "arm64e"
+2021-02-01 03:19:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreImage.dylib' '-verify_arch' 'arm64e'
+2021-02-01 03:19:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreImage.dylib' '-remove' 'arm64e' '-output' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreImage.dylib'
+2021-02-01 03:19:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:39 +0000  Successfully thinned item "libswiftCoreImage.dylib", arch "arm64e"
+2021-02-01 03:19:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftDarwin.dylib' '-verify_arch' 'arm64e'
+2021-02-01 03:19:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftDarwin.dylib' '-remove' 'arm64e' '-output' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftDarwin.dylib'
+2021-02-01 03:19:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:39 +0000  Successfully thinned item "libswiftDarwin.dylib", arch "arm64e"
+2021-02-01 03:19:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftDispatch.dylib' '-verify_arch' 'arm64e'
+2021-02-01 03:19:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftDispatch.dylib' '-remove' 'arm64e' '-output' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftDispatch.dylib'
+2021-02-01 03:19:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:39 +0000  Successfully thinned item "libswiftDispatch.dylib", arch "arm64e"
+2021-02-01 03:19:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftFoundation.dylib' '-verify_arch' 'arm64e'
+2021-02-01 03:19:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftFoundation.dylib'
+2021-02-01 03:19:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:40 +0000  Successfully thinned item "libswiftFoundation.dylib", arch "arm64e"
+2021-02-01 03:19:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftMetal.dylib' '-verify_arch' 'arm64e'
+2021-02-01 03:19:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftMetal.dylib' '-remove' 'arm64e' '-output' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftMetal.dylib'
+2021-02-01 03:19:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:40 +0000  Successfully thinned item "libswiftMetal.dylib", arch "arm64e"
+2021-02-01 03:19:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib' '-verify_arch' 'arm64e'
+2021-02-01 03:19:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib' '-remove' 'arm64e' '-output' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib'
+2021-02-01 03:19:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:40 +0000  Successfully thinned item "libswiftObjectiveC.dylib", arch "arm64e"
+2021-02-01 03:19:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib' '-verify_arch' 'arm64e'
+2021-02-01 03:19:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib'
+2021-02-01 03:19:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:40 +0000  Successfully thinned item "libswiftQuartzCore.dylib", arch "arm64e"
+2021-02-01 03:19:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftUIKit.dylib' '-verify_arch' 'arm64e'
+2021-02-01 03:19:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftUIKit.dylib' '-remove' 'arm64e' '-output' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftUIKit.dylib'
+2021-02-01 03:19:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:40 +0000  Successfully thinned item "libswiftUIKit.dylib", arch "arm64e"
+2021-02-01 03:19:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftos.dylib' '-verify_arch' 'arm64e'
+2021-02-01 03:19:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftos.dylib' '-remove' 'arm64e' '-output' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftos.dylib'
+2021-02-01 03:19:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-02-01 03:19:40 +0000  Successfully thinned item "libswiftos.dylib", arch "arm64e"
+2021-02-01 03:19:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension' '-verify_arch' 'arm64e'
+2021-02-01 03:19:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-02-01 03:19:40 +0000  Skipping architecture thinning for item "OneSignalNotificationServiceExtension" because arch "arm64e" wasn't found
+2021-02-01 03:19:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/simthanhdat' '-verify_arch' 'arm64e'
+2021-02-01 03:19:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-02-01 03:19:40 +0000  Skipping architecture thinning for item "simthanhdat" because arch "arm64e" wasn't found
+2021-02-01 03:19:40 +0000  Processing step: IDEDistributionODRStep
+2021-02-01 03:19:40 +0000  Processing step: IDEDistributionStripXattrsStep
+2021-02-01 03:19:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f99cfa610d0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7f99aec0a020:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99b0919600; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99b08153a0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a12f2b4b0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7f99aec0a020:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f99af1ad490; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7f9a0f826360:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aede8130; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99b08153a0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1b1dd170>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7f9a0f826360:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f99aedbf8b0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7f9a10725d60:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99af6c79a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a24db2140; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1bb58830>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7f9a10725d60:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f99af0effa0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7f9a29f7eb50:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99cfaf9fb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99aec2c080; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a0fc97db0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7f9a29f7eb50:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f99b0a6df10; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7f99dea39be0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aedc0290; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99af6a0be0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f99cfa7bc50>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7f99dea39be0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f99cfae1030; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7f99aece7660:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99ff1b6830; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99b08181a0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1b1dd170>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7f99aece7660:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f99af6fb7b0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7f9a1b20bd40:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99af7c1450; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99af6a0be0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f99cfa7bc50>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7f9a1b20bd40:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f99aeddaa20; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7f99aec1e810:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aed26190; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99af6a0be0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f99cfa89310>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7f99aec1e810:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f99cfa4df80; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7f99b080c3b0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aed65350; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99aed61540; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1b1a7040>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7f99b080c3b0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f99af7641c0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7f99aecd2b50:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9a1c3d0490; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a24db2140; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a298179f0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7f99aecd2b50:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f99aedb1330; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7f99cfa62c60:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aeda61c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a24db2140; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1bb58830>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7f99cfa62c60:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f99aed54d30; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7f99b080a860:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99af6d9250; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a24db2140; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1bb93850>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7f99b080a860:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:40 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f99af14d0c0; bundleID='Sim.SimTD.OneSignalNotificationServiceExtension', path='<DVTFilePath:0x7f99aec1e2f0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9a22a73d60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99af6a0be0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f99cfa7bc50>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='{
+    "application-identifier" = "TJA39X8HM7.Sim.SimTD.OneSignalNotificationServiceExtension";
+    "com.apple.developer.team-identifier" = TJA39X8HM7;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "TJA39X8HM7.Sim.SimTD.OneSignalNotificationServiceExtension"
+    );
+}', teamID='TJA39X8HM7', identifier='Sim.SimTD.OneSignalNotificationServiceExtension', executablePath='<DVTFilePath:0x7f9a243c7080:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension'>', hardenedRuntime='0'>'>
+2021-02-01 03:19:40 +0000  Running /usr/bin/xattr '-crs' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app'
+2021-02-01 03:19:41 +0000  /usr/bin/xattr exited with 0
+2021-02-01 03:19:41 +0000  Processing step: IDEDistributionCodesignStep
+2021-02-01 03:19:41 +0000  Entitlements for <IDEDistributionItem: 0x7f99cfa610d0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7f99aec0a020:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99b0919600; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99aec2c080; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a298179f0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7f99aec0a020:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-02-01 03:19:41 +0000  Writing entitlements for <IDEDistributionItem: 0x7f99cfa610d0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7f99aec0a020:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99b0919600; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a14212190; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a18396eb0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7f99aec0a020:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~vUTJQk
+2021-02-01 03:19:41 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AFCD37AF8170E144B90F12BE62C872A9A5A67473' '--entitlements' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~vUTJQk' '--preserve-metadata=identifier,flags,runtime' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCore.dylib'
+2021-02-01 03:19:42 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCore.dylib: replacing existing signature
+2021-02-01 03:19:44 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCore]
+2021-02-01 03:19:44 +0000  /usr/bin/codesign exited with 0
+2021-02-01 03:19:44 +0000  Entitlements for <IDEDistributionItem: 0x7f99af1ad490; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7f9a0f826360:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aede8130; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99b08f6c00; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1b1d5210>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7f9a0f826360:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-02-01 03:19:44 +0000  Writing entitlements for <IDEDistributionItem: 0x7f99af1ad490; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7f9a0f826360:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aede8130; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99aedcd350; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1b1c2890>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7f9a0f826360:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~Taj9Gu
+2021-02-01 03:19:44 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AFCD37AF8170E144B90F12BE62C872A9A5A67473' '--entitlements' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~Taj9Gu' '--preserve-metadata=identifier,flags,runtime' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib'
+2021-02-01 03:19:45 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib: replacing existing signature
+2021-02-01 03:19:45 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2021-02-01 03:19:45 +0000  /usr/bin/codesign exited with 0
+2021-02-01 03:19:45 +0000  Entitlements for <IDEDistributionItem: 0x7f99aedbf8b0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7f9a10725d60:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99af6c79a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a24db2140; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a0f3dfee0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7f9a10725d60:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-02-01 03:19:45 +0000  Writing entitlements for <IDEDistributionItem: 0x7f99aedbf8b0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7f9a10725d60:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99af6c79a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a1c187ca0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a22790660>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7f9a10725d60:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> to: /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~ITgvLT
+2021-02-01 03:19:45 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AFCD37AF8170E144B90F12BE62C872A9A5A67473' '--entitlements' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~ITgvLT' '--preserve-metadata=identifier,flags,runtime' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib'
+2021-02-01 03:19:46 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib: replacing existing signature
+2021-02-01 03:19:46 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2021-02-01 03:19:46 +0000  /usr/bin/codesign exited with 0
+2021-02-01 03:19:46 +0000  Entitlements for <IDEDistributionItem: 0x7f99af0effa0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7f9a29f7eb50:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99cfaf9fb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99aec2c080; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1bc4bcd0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7f9a29f7eb50:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-02-01 03:19:46 +0000  Writing entitlements for <IDEDistributionItem: 0x7f99af0effa0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7f9a29f7eb50:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99cfaf9fb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a14212190; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a136efa60>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7f9a29f7eb50:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'> to: /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~aXCzPC
+2021-02-01 03:19:46 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AFCD37AF8170E144B90F12BE62C872A9A5A67473' '--entitlements' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~aXCzPC' '--preserve-metadata=identifier,flags,runtime' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreImage.dylib'
+2021-02-01 03:19:47 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreImage.dylib: replacing existing signature
+2021-02-01 03:19:47 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreImage.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreImage]
+2021-02-01 03:19:47 +0000  /usr/bin/codesign exited with 0
+2021-02-01 03:19:47 +0000  Entitlements for <IDEDistributionItem: 0x7f99b0a6df10; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7f99dea39be0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aedc0290; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a24db2140; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1c23f190>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7f99dea39be0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-02-01 03:19:47 +0000  Writing entitlements for <IDEDistributionItem: 0x7f99b0a6df10; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7f99dea39be0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aedc0290; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a1c187ca0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a0f1b7a00>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7f99dea39be0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> to: /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~Rmz2qb
+2021-02-01 03:19:47 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AFCD37AF8170E144B90F12BE62C872A9A5A67473' '--entitlements' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~Rmz2qb' '--preserve-metadata=identifier,flags,runtime' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftDarwin.dylib'
+2021-02-01 03:19:48 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftDarwin.dylib: replacing existing signature
+2021-02-01 03:19:48 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDarwin]
+2021-02-01 03:19:48 +0000  /usr/bin/codesign exited with 0
+2021-02-01 03:19:48 +0000  Entitlements for <IDEDistributionItem: 0x7f99cfae1030; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7f99aece7660:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99ff1b6830; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99aec2c080; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1bc7f2d0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7f99aece7660:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-02-01 03:19:48 +0000  Writing entitlements for <IDEDistributionItem: 0x7f99cfae1030; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7f99aece7660:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99ff1b6830; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a14212190; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a136763d0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7f99aece7660:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> to: /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~Y0990r
+2021-02-01 03:19:48 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AFCD37AF8170E144B90F12BE62C872A9A5A67473' '--entitlements' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~Y0990r' '--preserve-metadata=identifier,flags,runtime' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftDispatch.dylib'
+2021-02-01 03:19:50 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftDispatch.dylib: replacing existing signature
+2021-02-01 03:19:50 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDispatch]
+2021-02-01 03:19:50 +0000  /usr/bin/codesign exited with 0
+2021-02-01 03:19:50 +0000  Entitlements for <IDEDistributionItem: 0x7f99af6fb7b0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7f9a1b20bd40:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99af7c1450; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99b08f6c00; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1b1b38b0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7f9a1b20bd40:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-02-01 03:19:50 +0000  Writing entitlements for <IDEDistributionItem: 0x7f99af6fb7b0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7f9a1b20bd40:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99af7c1450; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99aec2c080; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a298179f0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7f9a1b20bd40:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~Jdr4Jj
+2021-02-01 03:19:50 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AFCD37AF8170E144B90F12BE62C872A9A5A67473' '--entitlements' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~Jdr4Jj' '--preserve-metadata=identifier,flags,runtime' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftFoundation.dylib'
+2021-02-01 03:19:51 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftFoundation.dylib: replacing existing signature
+2021-02-01 03:19:52 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftFoundation]
+2021-02-01 03:19:52 +0000  /usr/bin/codesign exited with 0
+2021-02-01 03:19:52 +0000  Entitlements for <IDEDistributionItem: 0x7f99aeddaa20; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7f99aec1e810:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aed26190; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a24db2140; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a18396eb0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7f99aec1e810:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-02-01 03:19:52 +0000  Writing entitlements for <IDEDistributionItem: 0x7f99aeddaa20; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7f99aec1e810:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aed26190; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99af134f10; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1bc5d650>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7f99aec1e810:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'> to: /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~ro3Ggr
+2021-02-01 03:19:52 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AFCD37AF8170E144B90F12BE62C872A9A5A67473' '--entitlements' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~ro3Ggr' '--preserve-metadata=identifier,flags,runtime' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftMetal.dylib'
+2021-02-01 03:19:53 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftMetal.dylib: replacing existing signature
+2021-02-01 03:19:53 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftMetal.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftMetal]
+2021-02-01 03:19:53 +0000  /usr/bin/codesign exited with 0
+2021-02-01 03:19:53 +0000  Entitlements for <IDEDistributionItem: 0x7f99cfa4df80; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7f99b080c3b0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aed65350; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a24db2140; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1c2596b0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7f99b080c3b0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-02-01 03:19:53 +0000  Writing entitlements for <IDEDistributionItem: 0x7f99cfa4df80; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7f99b080c3b0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aed65350; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a1c187ca0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a262c2380>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7f99b080c3b0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> to: /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~ZjY3hm
+2021-02-01 03:19:53 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AFCD37AF8170E144B90F12BE62C872A9A5A67473' '--entitlements' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~ZjY3hm' '--preserve-metadata=identifier,flags,runtime' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib'
+2021-02-01 03:19:54 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib: replacing existing signature
+2021-02-01 03:19:54 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2021-02-01 03:19:54 +0000  /usr/bin/codesign exited with 0
+2021-02-01 03:19:54 +0000  Entitlements for <IDEDistributionItem: 0x7f99af7641c0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7f99aecd2b50:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9a1c3d0490; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a24db2140; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a25e8a810>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7f99aecd2b50:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-02-01 03:19:54 +0000  Writing entitlements for <IDEDistributionItem: 0x7f99af7641c0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7f99aecd2b50:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9a1c3d0490; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a1c187ca0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a262c0290>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7f99aecd2b50:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~N4QpDw
+2021-02-01 03:19:54 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AFCD37AF8170E144B90F12BE62C872A9A5A67473' '--entitlements' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~N4QpDw' '--preserve-metadata=identifier,flags,runtime' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib'
+2021-02-01 03:19:55 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib: replacing existing signature
+2021-02-01 03:19:55 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftQuartzCore]
+2021-02-01 03:19:55 +0000  /usr/bin/codesign exited with 0
+2021-02-01 03:19:55 +0000  Entitlements for <IDEDistributionItem: 0x7f99aedb1330; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7f99cfa62c60:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aeda61c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a24db2140; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a25e8a810>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7f99cfa62c60:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-02-01 03:19:55 +0000  Writing entitlements for <IDEDistributionItem: 0x7f99aedb1330; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7f99cfa62c60:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99aeda61c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a1c187ca0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a22770a50>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7f99cfa62c60:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'> to: /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~GtltPX
+2021-02-01 03:19:55 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AFCD37AF8170E144B90F12BE62C872A9A5A67473' '--entitlements' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~GtltPX' '--preserve-metadata=identifier,flags,runtime' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftUIKit.dylib'
+2021-02-01 03:19:56 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftUIKit.dylib: replacing existing signature
+2021-02-01 03:19:57 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftUIKit.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftUIKit]
+2021-02-01 03:19:57 +0000  /usr/bin/codesign exited with 0
+2021-02-01 03:19:57 +0000  Entitlements for <IDEDistributionItem: 0x7f99aed54d30; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7f99b080a860:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99af6d9250; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a24db2140; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1bb76d80>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7f99b080a860:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-02-01 03:19:57 +0000  Writing entitlements for <IDEDistributionItem: 0x7f99aed54d30; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7f99b080a860:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99af6d9250; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a1c187ca0; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a25e8a810>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='(null)', teamID='TJA39X8HM7', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7f99b080a860:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'> to: /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~pGtlIH
+2021-02-01 03:19:57 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AFCD37AF8170E144B90F12BE62C872A9A5A67473' '--entitlements' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~pGtlIH' '--preserve-metadata=identifier,flags,runtime' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftos.dylib'
+2021-02-01 03:19:58 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftos.dylib: replacing existing signature
+2021-02-01 03:19:58 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftos.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftos]
+2021-02-01 03:19:58 +0000  /usr/bin/codesign exited with 0
+2021-02-01 03:19:58 +0000  Entitlements for <IDEDistributionItem: 0x7f99af14d0c0; bundleID='Sim.SimTD.OneSignalNotificationServiceExtension', path='<DVTFilePath:0x7f99aec1e2f0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9a22a73d60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99aec2c080; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1bc5b110>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='{
+    "application-identifier" = "TJA39X8HM7.Sim.SimTD.OneSignalNotificationServiceExtension";
+    "com.apple.developer.team-identifier" = TJA39X8HM7;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "TJA39X8HM7.Sim.SimTD.OneSignalNotificationServiceExtension"
+    );
+}', teamID='TJA39X8HM7', identifier='Sim.SimTD.OneSignalNotificationServiceExtension', executablePath='<DVTFilePath:0x7f9a243c7080:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "TJA39X8HM7.Sim.SimTD.OneSignalNotificationServiceExtension";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = TJA39X8HM7;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "TJA39X8HM7.Sim.SimTD.OneSignalNotificationServiceExtension"
+    );
+}
+2021-02-01 03:19:58 +0000  Writing entitlements for <IDEDistributionItem: 0x7f99af14d0c0; bundleID='Sim.SimTD.OneSignalNotificationServiceExtension', path='<DVTFilePath:0x7f99aec1e2f0:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9a22a73d60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99b08f6c00; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1319eb30>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='{
+    "application-identifier" = "TJA39X8HM7.Sim.SimTD.OneSignalNotificationServiceExtension";
+    "com.apple.developer.team-identifier" = TJA39X8HM7;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "TJA39X8HM7.Sim.SimTD.OneSignalNotificationServiceExtension"
+    );
+}', teamID='TJA39X8HM7', identifier='Sim.SimTD.OneSignalNotificationServiceExtension', executablePath='<DVTFilePath:0x7f9a243c7080:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension'>', hardenedRuntime='0'>'> to: /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~YwzIvz
+2021-02-01 03:19:58 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AFCD37AF8170E144B90F12BE62C872A9A5A67473' '--entitlements' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~YwzIvz' '--preserve-metadata=identifier,flags,runtime' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex'
+2021-02-01 03:20:00 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex: signed bundle with Mach-O thin (arm64) [Sim.SimTD.OneSignalNotificationServiceExtension]
+2021-02-01 03:20:00 +0000  /usr/bin/codesign exited with 0
+2021-02-01 03:20:00 +0000  Entitlements for <IDEDistributionItem: 0x7f99b0aad5b0; bundleID='Sim.SimTD', path='<DVTFilePath:0x7f99aec06d20:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99af17e7d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f99aec2c080; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a1bc06990>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='{
+    "application-identifier" = "TJA39X8HM7.Sim.SimTD";
+    "aps-environment" = development;
+    "com.apple.developer.team-identifier" = TJA39X8HM7;
+    "com.apple.security.application-groups" =     (
+        "group.Sim.SimTD.onesignal"
+    );
+    "get-task-allow" = 1;
+}', teamID='TJA39X8HM7', identifier='Sim.SimTD', executablePath='<DVTFilePath:0x7f99b080c260:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/simthanhdat'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "TJA39X8HM7.Sim.SimTD";
+    "aps-environment" = production;
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = TJA39X8HM7;
+    "com.apple.security.application-groups" =     (
+        "group.Sim.SimTD.onesignal"
+    );
+    "get-task-allow" = 0;
+}
+2021-02-01 03:20:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7f99b0aad5b0; bundleID='Sim.SimTD', path='<DVTFilePath:0x7f99aec06d20:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f99af17e7d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9a14212190; name='Apple Development: Nam Trần (35KYCAXV8X)', hash='32844024512C3DA8A439343511FD55A6ACF3D421', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9a243addf0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-18 15:25:06 +0000''>', entitlements='{
+    "application-identifier" = "TJA39X8HM7.Sim.SimTD";
+    "aps-environment" = development;
+    "com.apple.developer.team-identifier" = TJA39X8HM7;
+    "com.apple.security.application-groups" =     (
+        "group.Sim.SimTD.onesignal"
+    );
+    "get-task-allow" = 1;
+}', teamID='TJA39X8HM7', identifier='Sim.SimTD', executablePath='<DVTFilePath:0x7f99b080c260:'/Users/_coz/Library/Developer/Xcode/Archives/2021-02-01/Simthanhdat 2-1-21, 12.11 PM.xcarchive/Products/Applications/simthanhdat.app/simthanhdat'>', hardenedRuntime='0'>'> to: /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~mxWrle
+2021-02-01 03:20:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AFCD37AF8170E144B90F12BE62C872A9A5A67473' '--entitlements' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/entitlements~~~mxWrle' '--preserve-metadata=identifier,flags,runtime' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app'
+2021-02-01 03:20:03 +0000  /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app: signed app bundle with Mach-O thin (arm64) [Sim.SimTD]
+2021-02-01 03:20:03 +0000  /usr/bin/codesign exited with 0
+2021-02-01 03:20:03 +0000  Processing step: IDEDistributionZipODRItemStep
+2021-02-01 03:20:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-02-01 03:20:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-02-01 03:20:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-02-01 03:20:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-02-01 03:20:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-02-01 03:20:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-02-01 03:20:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-02-01 03:20:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-02-01 03:20:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-02-01 03:20:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-02-01 03:20:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-02-01 03:20:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-02-01 03:20:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-02-01 03:20:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-02-01 03:20:03 +0000  Processing step: IDEDistributionCreateIPAStep
+2021-02-01 03:20:03 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root' '/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Packages/simthanhdat.ipa'
+2021-02-01 03:20:03 +0000  >>> Copying /var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root 
+2021-02-01 03:20:03 +0000  copying file ./BCSymbolMaps/66D273F7-E6D7-31FE-8924-CFE786CEFE44.bcsymbolmap ... 
+2021-02-01 03:20:03 +0000  6643237 bytes for ./BCSymbolMaps/66D273F7-E6D7-31FE-8924-CFE786CEFE44.bcsymbolmap
+2021-02-01 03:20:03 +0000  copying file ./BCSymbolMaps/7A3B99BF-9944-3E25-A8AC-2F1601CBEB2D.bcsymbolmap ... 
+2021-02-01 03:20:03 +0000  6643476 bytes for ./BCSymbolMaps/7A3B99BF-9944-3E25-A8AC-2F1601CBEB2D.bcsymbolmap
+2021-02-01 03:20:03 +0000  copying file ./Payload/simthanhdat.app/_CodeSignature/CodeResources ... 
+2021-02-01 03:20:03 +0000  37623 bytes for ./Payload/simthanhdat.app/_CodeSignature/CodeResources
+2021-02-01 03:20:03 +0000  copying file ./Payload/simthanhdat.app/Fontisto.ttf ... 
+2021-02-01 03:20:03 +0000  313528 bytes for ./Payload/simthanhdat.app/Fontisto.ttf
+copying file ./Payload/simthanhdat.app/Octicons.ttf ... 
+2021-02-01 03:20:03 +0000  28364 bytes for ./Payload/simthanhdat.app/Octicons.ttf
+copying file ./Payload/simthanhdat.app/Feather.ttf ... 
+2021-02-01 03:20:03 +0000  56024 bytes for ./Payload/simthanhdat.app/Feather.ttf
+copying file ./Payload/simthanhdat.app/Entypo.ttf ... 
+2021-02-01 03:20:03 +0000  65584 bytes for ./Payload/simthanhdat.app/Entypo.ttf
+copying file ./Payload/simthanhdat.app/FiraSans-Medium.ttf ... 
+2021-02-01 03:20:03 +0000  441000 bytes for ./Payload/simthanhdat.app/FiraSans-Medium.ttf
+2021-02-01 03:20:03 +0000  copying file ./Payload/simthanhdat.app/FiraSans-Bold.ttf ... 
+2021-02-01 03:20:03 +0000  473492 bytes for ./Payload/simthanhdat.app/FiraSans-Bold.ttf
+copying file ./Payload/simthanhdat.app/FontAwesome5_Brands.ttf ... 
+2021-02-01 03:20:03 +0000  132728 bytes for ./Payload/simthanhdat.app/FontAwesome5_Brands.ttf
+copying file ./Payload/simthanhdat.app/MaterialCommunityIcons.ttf ... 
+2021-02-01 03:20:03 +0000  899432 bytes for ./Payload/simthanhdat.app/MaterialCommunityIcons.ttf
+2021-02-01 03:20:03 +0000  copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/_CodeSignature/CodeResources ... 
+2021-02-01 03:20:03 +0000  6199 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/_CodeSignature/CodeResources
+2021-02-01 03:20:03 +0000  copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/Fontisto.ttf ... 
+2021-02-01 03:20:03 +0000  313528 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/Fontisto.ttf
+copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/Octicons.ttf ... 
+2021-02-01 03:20:03 +0000  28364 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/Octicons.ttf
+copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/Feather.ttf ... 
+2021-02-01 03:20:03 +0000  56024 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/Feather.ttf
+2021-02-01 03:20:03 +0000  copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/Entypo.ttf ... 
+2021-02-01 03:20:03 +0000  65584 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/Entypo.ttf
+copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/FontAwesome5_Brands.ttf ... 
+2021-02-01 03:20:03 +0000  132728 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/FontAwesome5_Brands.ttf
+copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/MaterialCommunityIcons.ttf ... 
+2021-02-01 03:20:03 +0000  899432 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/MaterialCommunityIcons.ttf
+copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/AntDesign.ttf ... 
+2021-02-01 03:20:03 +0000  70344 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/AntDesign.ttf
+2021-02-01 03:20:03 +0000  copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/Foundation.ttf ... 
+2021-02-01 03:20:03 +0000  56976 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/Foundation.ttf
+copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/Ionicons.ttf ... 
+2021-02-01 03:20:03 +0000  247192 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/Ionicons.ttf
+copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/FontAwesome5_Solid.ttf ... 
+2021-02-01 03:20:03 +0000  202616 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/FontAwesome5_Solid.ttf
+copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/FontAwesome5_Regular.ttf ... 
+2021-02-01 03:20:03 +0000  34092 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/FontAwesome5_Regular.ttf
+copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension ... 
+2021-02-01 03:20:06 +0000  81120144 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension
+2021-02-01 03:20:06 +0000  copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2021-02-01 03:20:06 +0000  530 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/AccessibilityResources.bundle/en.lproj/Localizable.strings
+copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/AccessibilityResources.bundle/Info.plist ... 
+2021-02-01 03:20:06 +0000  746 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/AccessibilityResources.bundle/Info.plist
+copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/FontAwesome.ttf ... 
+2021-02-01 03:20:06 +0000  165548 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/FontAwesome.ttf
+copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/Zocial.ttf ... 
+2021-02-01 03:20:06 +0000  25552 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/Zocial.ttf
+copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/EvilIcons.ttf ... 
+2021-02-01 03:20:06 +0000  13456 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/EvilIcons.ttf
+copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/SimpleLineIcons.ttf ... 
+2021-02-01 03:20:06 +0000  54056 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/SimpleLineIcons.ttf
+copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/embedded.mobileprovision ... 
+2021-02-01 03:20:06 +0000  11923 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/embedded.mobileprovision
+copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/Info.plist ... 
+2021-02-01 03:20:06 +0000  984 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/Info.plist
+2021-02-01 03:20:06 +0000  copying file ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/MaterialIcons.ttf ... 
+2021-02-01 03:20:06 +0000  230384 bytes for ./Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex/MaterialIcons.ttf
+2021-02-01 03:20:06 +0000  copying file ./Payload/simthanhdat.app/AppIcon60x60@2x.png ... 
+2021-02-01 03:20:06 +0000  29061 bytes for ./Payload/simthanhdat.app/AppIcon60x60@2x.png
+copying file ./Payload/simthanhdat.app/AntDesign.ttf ... 
+2021-02-01 03:20:06 +0000  70344 bytes for ./Payload/simthanhdat.app/AntDesign.ttf
+2021-02-01 03:20:06 +0000  copying file ./Payload/simthanhdat.app/Foundation.ttf ... 
+2021-02-01 03:20:06 +0000  56976 bytes for ./Payload/simthanhdat.app/Foundation.ttf
+copying file ./Payload/simthanhdat.app/Ionicons.ttf ... 
+2021-02-01 03:20:06 +0000  247192 bytes for ./Payload/simthanhdat.app/Ionicons.ttf
+2021-02-01 03:20:06 +0000  copying file ./Payload/simthanhdat.app/FontAwesome5_Solid.ttf ... 
+2021-02-01 03:20:06 +0000  202616 bytes for ./Payload/simthanhdat.app/FontAwesome5_Solid.ttf
+2021-02-01 03:20:06 +0000  copying file ./Payload/simthanhdat.app/FontAwesome5_Regular.ttf ... 
+2021-02-01 03:20:06 +0000  34092 bytes for ./Payload/simthanhdat.app/FontAwesome5_Regular.ttf
+2021-02-01 03:20:06 +0000  copying file ./Payload/simthanhdat.app/Avenir-Bold-Condensed.ttf ... 
+2021-02-01 03:20:06 +0000  71060 bytes for ./Payload/simthanhdat.app/Avenir-Bold-Condensed.ttf
+2021-02-01 03:20:06 +0000  copying file ./Payload/simthanhdat.app/AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+530 bytes for ./Payload/simthanhdat.app/AccessibilityResources.bundle/en.lproj/Localizable.strings
+2021-02-01 03:20:06 +0000  copying file ./Payload/simthanhdat.app/AccessibilityResources.bundle/Info.plist ... 
+746 bytes for ./Payload/simthanhdat.app/AccessibilityResources.bundle/Info.plist
+2021-02-01 03:20:06 +0000  copying file ./Payload/simthanhdat.app/GoogleService-Info.plist ... 
+804 bytes for ./Payload/simthanhdat.app/GoogleService-Info.plist
+2021-02-01 03:20:06 +0000  copying file ./Payload/simthanhdat.app/Base.lproj/LaunchScreen.nib ... 
+2021-02-01 03:20:06 +0000  1311 bytes for ./Payload/simthanhdat.app/Base.lproj/LaunchScreen.nib
+copying file ./Payload/simthanhdat.app/FontAwesome.ttf ... 
+2021-02-01 03:20:06 +0000  165548 bytes for ./Payload/simthanhdat.app/FontAwesome.ttf
+copying file ./Payload/simthanhdat.app/Zocial.ttf ... 
+2021-02-01 03:20:06 +0000  25552 bytes for ./Payload/simthanhdat.app/Zocial.ttf
+copying file ./Payload/simthanhdat.app/simthanhdat ... 
+2021-02-01 03:20:10 +0000  81173072 bytes for ./Payload/simthanhdat.app/simthanhdat
+copying file ./Payload/simthanhdat.app/Assets.car ... 
+2021-02-01 03:20:10 +0000  2305551 bytes for ./Payload/simthanhdat.app/Assets.car
+copying file ./Payload/simthanhdat.app/EvilIcons.ttf ... 
+2021-02-01 03:20:10 +0000  13456 bytes for ./Payload/simthanhdat.app/EvilIcons.ttf
+copying file ./Payload/simthanhdat.app/AppIcon76x76@2x~ipad.png ... 
+2021-02-01 03:20:10 +0000  44676 bytes for ./Payload/simthanhdat.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/simthanhdat.app/main.jsbundle ... 
+2021-02-01 03:20:10 +0000  3310847 bytes for ./Payload/simthanhdat.app/main.jsbundle
+copying file ./Payload/simthanhdat.app/VinaToTek.ttf ... 
+2021-02-01 03:20:10 +0000  17844 bytes for ./Payload/simthanhdat.app/VinaToTek.ttf
+copying file ./Payload/simthanhdat.app/Frameworks/libswiftCoreImage.dylib ... 
+2021-02-01 03:20:10 +0000  352400 bytes for ./Payload/simthanhdat.app/Frameworks/libswiftCoreImage.dylib
+2021-02-01 03:20:10 +0000  copying file ./Payload/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib ... 
+2021-02-01 03:20:10 +0000  500112 bytes for ./Payload/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib
+copying file ./Payload/simthanhdat.app/Frameworks/libswiftCore.dylib ... 
+2021-02-01 03:20:13 +0000  69852816 bytes for ./Payload/simthanhdat.app/Frameworks/libswiftCore.dylib
+copying file ./Payload/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2021-02-01 03:20:13 +0000  1535360 bytes for ./Payload/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib
+copying file ./Payload/simthanhdat.app/Frameworks/libswiftUIKit.dylib ... 
+2021-02-01 03:20:13 +0000  1200992 bytes for ./Payload/simthanhdat.app/Frameworks/libswiftUIKit.dylib
+copying file ./Payload/simthanhdat.app/Frameworks/libswiftMetal.dylib ... 
+2021-02-01 03:20:13 +0000  544928 bytes for ./Payload/simthanhdat.app/Frameworks/libswiftMetal.dylib
+copying file ./Payload/simthanhdat.app/Frameworks/libswiftDispatch.dylib ... 
+2021-02-01 03:20:13 +0000  2993344 bytes for ./Payload/simthanhdat.app/Frameworks/libswiftDispatch.dylib
+copying file ./Payload/simthanhdat.app/Frameworks/libswiftos.dylib ... 
+2021-02-01 03:20:13 +0000  644976 bytes for ./Payload/simthanhdat.app/Frameworks/libswiftos.dylib
+2021-02-01 03:20:13 +0000  copying file ./Payload/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2021-02-01 03:20:13 +0000  335952 bytes for ./Payload/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib
+copying file ./Payload/simthanhdat.app/Frameworks/libswiftDarwin.dylib ... 
+2021-02-01 03:20:13 +0000  814000 bytes for ./Payload/simthanhdat.app/Frameworks/libswiftDarwin.dylib
+copying file ./Payload/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib ... 
+2021-02-01 03:20:13 +0000  355616 bytes for ./Payload/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib
+copying file ./Payload/simthanhdat.app/Frameworks/libswiftFoundation.dylib ... 
+2021-02-01 03:20:14 +0000  31957104 bytes for ./Payload/simthanhdat.app/Frameworks/libswiftFoundation.dylib
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/SimpleLineIcons.ttf ... 
+2021-02-01 03:20:14 +0000  54056 bytes for ./Payload/simthanhdat.app/SimpleLineIcons.ttf
+copying file ./Payload/simthanhdat.app/embedded.mobileprovision ... 
+2021-02-01 03:20:14 +0000  11809 bytes for ./Payload/simthanhdat.app/embedded.mobileprovision
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/app.json ... 
+2021-02-01 03:20:14 +0000  65 bytes for ./Payload/simthanhdat.app/assets/app.json
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png ... 
+2021-02-01 03:20:14 +0000  761 bytes for ./Payload/simthanhdat.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png
+copying file ./Payload/simthanhdat.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png ... 
+2021-02-01 03:20:14 +0000  405 bytes for ./Payload/simthanhdat.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png
+copying file ./Payload/simthanhdat.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png ... 
+2021-02-01 03:20:14 +0000  290 bytes for ./Payload/simthanhdat.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png
+copying file ./Payload/simthanhdat.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png ... 
+2021-02-01 03:20:14 +0000  913 bytes for ./Payload/simthanhdat.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/node_modules/react-native-paper/src/assets/back-chevron.png ... 
+2021-02-01 03:20:14 +0000  489 bytes for ./Payload/simthanhdat.app/assets/node_modules/react-native-paper/src/assets/back-chevron.png
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/Ionicons.json ... 
+2021-02-01 03:20:14 +0000  106287 bytes for ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/Ionicons.json
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/Fontisto.json ... 
+2021-02-01 03:20:14 +0000  13107 bytes for ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/Fontisto.json
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/EvilIcons.json ... 
+2021-02-01 03:20:14 +0000  1454 bytes for ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/EvilIcons.json
+copying file ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/Octicons.json ... 
+2021-02-01 03:20:14 +0000  3992 bytes for ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/Octicons.json
+copying file ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/FontAwesome5Free_meta.json ... 
+2021-02-01 03:20:14 +0000  27903 bytes for ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/FontAwesome5Free_meta.json
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/FontAwesome.json ... 
+2021-02-01 03:20:14 +0000  17437 bytes for ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/FontAwesome.json
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/MaterialIcons.json ... 
+2021-02-01 03:20:14 +0000  38522 bytes for ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/MaterialIcons.json
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/Entypo.json ... 
+2021-02-01 03:20:14 +0000  9486 bytes for ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/Entypo.json
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/SimpleLineIcons.json ... 
+2021-02-01 03:20:14 +0000  4102 bytes for ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/SimpleLineIcons.json
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/AntDesign.json ... 
+2021-02-01 03:20:14 +0000  6303 bytes for ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/AntDesign.json
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/FontAwesome5Free.json ... 
+2021-02-01 03:20:14 +0000  32278 bytes for ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/FontAwesome5Free.json
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/Feather.json ... 
+2021-02-01 03:20:14 +0000  6080 bytes for ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/Feather.json
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/MaterialCommunityIcons.json ... 
+2021-02-01 03:20:14 +0000  151816 bytes for ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/MaterialCommunityIcons.json
+copying file ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/Foundation.json ... 
+2021-02-01 03:20:14 +0000  6417 bytes for ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/Foundation.json
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/Zocial.json ... 
+2021-02-01 03:20:14 +0000  2013 bytes for ./Payload/simthanhdat.app/assets/node_modules/react-native-vector-icons/glyphmaps/Zocial.json
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/node_modules/realm/package.json ... 
+2021-02-01 03:20:14 +0000  6285 bytes for ./Payload/simthanhdat.app/assets/node_modules/realm/package.json
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/images/cmnd-back.jpg ... 
+2021-02-01 03:20:14 +0000  79828 bytes for ./Payload/simthanhdat.app/assets/assets/images/cmnd-back.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/images/cmnd-front.jpg ... 
+2021-02-01 03:20:14 +0000  58772 bytes for ./Payload/simthanhdat.app/assets/assets/images/cmnd-front.jpg
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/icons/viettel.png ... 
+2021-02-01 03:20:14 +0000  20020 bytes for ./Payload/simthanhdat.app/assets/assets/icons/viettel.png
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/icons/vietnammobile.png ... 
+2021-02-01 03:20:14 +0000  7426 bytes for ./Payload/simthanhdat.app/assets/assets/icons/vietnammobile.png
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/icons/record-button.png ... 
+2021-02-01 03:20:14 +0000  1232 bytes for ./Payload/simthanhdat.app/assets/assets/icons/record-button.png
+copying file ./Payload/simthanhdat.app/assets/assets/icons/mobi.png ... 
+2021-02-01 03:20:14 +0000  9071 bytes for ./Payload/simthanhdat.app/assets/assets/icons/mobi.png
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/icons/help.png ... 
+2021-02-01 03:20:14 +0000  3110 bytes for ./Payload/simthanhdat.app/assets/assets/icons/help.png
+copying file ./Payload/simthanhdat.app/assets/assets/icons/logo.png ... 
+2021-02-01 03:20:14 +0000  38839 bytes for ./Payload/simthanhdat.app/assets/assets/icons/logo.png
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/icons/mobilogo.png ... 
+2021-02-01 03:20:14 +0000  8213 bytes for ./Payload/simthanhdat.app/assets/assets/icons/mobilogo.png
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/icons/viettellogo.png ... 
+2021-02-01 03:20:14 +0000  60122 bytes for ./Payload/simthanhdat.app/assets/assets/icons/viettellogo.png
+copying file ./Payload/simthanhdat.app/assets/assets/icons/beline.png ... 
+2021-02-01 03:20:14 +0000  9672 bytes for ./Payload/simthanhdat.app/assets/assets/icons/beline.png
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/icons/noimage.png ... 
+2021-02-01 03:20:14 +0000  47605 bytes for ./Payload/simthanhdat.app/assets/assets/icons/noimage.png
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/icons/vinalogo.png ... 
+2021-02-01 03:20:14 +0000  17264 bytes for ./Payload/simthanhdat.app/assets/assets/icons/vinalogo.png
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/icons/facebook_sharp.png ... 
+2021-02-01 03:20:14 +0000  982 bytes for ./Payload/simthanhdat.app/assets/assets/icons/facebook_sharp.png
+copying file ./Payload/simthanhdat.app/assets/assets/icons/boy.png ... 
+2021-02-01 03:20:14 +0000  3860 bytes for ./Payload/simthanhdat.app/assets/assets/icons/boy.png
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/icons/vinaphone.png ... 
+2021-02-01 03:20:14 +0000  6161 bytes for ./Payload/simthanhdat.app/assets/assets/icons/vinaphone.png
+copying file ./Payload/simthanhdat.app/assets/assets/selection.json ... 
+2021-02-01 03:20:14 +0000  77823 bytes for ./Payload/simthanhdat.app/assets/assets/selection.json
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8448.jpg ... 
+2021-02-01 03:20:14 +0000  78675 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8448.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8461.jpg ... 
+2021-02-01 03:20:14 +0000  206893 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8461.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8475.jpg ... 
+2021-02-01 03:20:14 +0000  22263 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8475.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8449.jpg ... 
+2021-02-01 03:20:14 +0000  72811 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8449.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8477.jpg ... 
+2021-02-01 03:20:14 +0000  82973 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8477.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8476.jpg ... 
+2021-02-01 03:20:14 +0000  49729 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8476.jpg
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8462.jpg ... 
+2021-02-01 03:20:14 +0000  304152 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8462.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8473.jpg ... 
+2021-02-01 03:20:14 +0000  112749 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8473.jpg
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8467.jpg ... 
+2021-02-01 03:20:14 +0000  48819 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8467.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/8.jpg ... 
+2021-02-01 03:20:14 +0000  41661 bytes for ./Payload/simthanhdat.app/assets/assets/templates/8.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8471.jpg ... 
+2021-02-01 03:20:14 +0000  117865 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8471.jpg
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8459.jpg ... 
+2021-02-01 03:20:14 +0000  109457 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8459.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8470.jpg ... 
+2021-02-01 03:20:14 +0000  37817 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8470.jpg
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/templates/4.jpg ... 
+2021-02-01 03:20:14 +0000  20063 bytes for ./Payload/simthanhdat.app/assets/assets/templates/4.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8441.jpg ... 
+2021-02-01 03:20:14 +0000  51750 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8441.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/5.jpg ... 
+2021-02-01 03:20:14 +0000  64897 bytes for ./Payload/simthanhdat.app/assets/assets/templates/5.jpg
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/templates/7.jpg ... 
+2021-02-01 03:20:14 +0000  127224 bytes for ./Payload/simthanhdat.app/assets/assets/templates/7.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8480.jpg ... 
+2021-02-01 03:20:14 +0000  51288 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8480.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/6.jpg ... 
+2021-02-01 03:20:14 +0000  183739 bytes for ./Payload/simthanhdat.app/assets/assets/templates/6.jpg
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/templates/2.jpg ... 
+2021-02-01 03:20:14 +0000  101826 bytes for ./Payload/simthanhdat.app/assets/assets/templates/2.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8447.jpg ... 
+2021-02-01 03:20:14 +0000  85463 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8447.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8446.jpg ... 
+2021-02-01 03:20:14 +0000  64536 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8446.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/3.jpg ... 
+2021-02-01 03:20:14 +0000  68293 bytes for ./Payload/simthanhdat.app/assets/assets/templates/3.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/1.jpg ... 
+2021-02-01 03:20:14 +0000  35656 bytes for ./Payload/simthanhdat.app/assets/assets/templates/1.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8444.jpg ... 
+2021-02-01 03:20:14 +0000  106018 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8444.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8478.jpg ... 
+2021-02-01 03:20:14 +0000  171119 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8478.jpg
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8479.jpg ... 
+2021-02-01 03:20:14 +0000  69282 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8479.jpg
+copying file ./Payload/simthanhdat.app/assets/assets/templates/IMG_8445.jpg ... 
+2021-02-01 03:20:14 +0000  80264 bytes for ./Payload/simthanhdat.app/assets/assets/templates/IMG_8445.jpg
+2021-02-01 03:20:14 +0000  copying file ./Payload/simthanhdat.app/FiraSans-Regular.ttf ... 
+2021-02-01 03:20:14 +0000  440560 bytes for ./Payload/simthanhdat.app/FiraSans-Regular.ttf
+copying file ./Payload/simthanhdat.app/Info.plist ... 
+2021-02-01 03:20:14 +0000  4329 bytes for ./Payload/simthanhdat.app/Info.plist
+copying file ./Payload/simthanhdat.app/PkgInfo ... 
+2021-02-01 03:20:14 +0000  8 bytes for ./Payload/simthanhdat.app/PkgInfo
+copying file ./Payload/simthanhdat.app/MaterialIcons.ttf ... 
+2021-02-01 03:20:14 +0000  230384 bytes for ./Payload/simthanhdat.app/MaterialIcons.ttf
+2021-02-01 03:20:14 +0000  copying file ./SwiftSupport/iphoneos/libswiftCoreImage.dylib ... 
+2021-02-01 03:20:14 +0000  466448 bytes for ./SwiftSupport/iphoneos/libswiftCoreImage.dylib
+copying file ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib ... 
+2021-02-01 03:20:14 +0000  679568 bytes for ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib
+copying file ./SwiftSupport/iphoneos/libswiftCore.dylib ... 
+2021-02-01 03:20:19 +0000  95497472 bytes for ./SwiftSupport/iphoneos/libswiftCore.dylib
+copying file ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib ... 
+2021-02-01 03:20:19 +0000  2040928 bytes for ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib
+2021-02-01 03:20:19 +0000  copying file ./SwiftSupport/iphoneos/libswiftUIKit.dylib ... 
+2021-02-01 03:20:19 +0000  1608688 bytes for ./SwiftSupport/iphoneos/libswiftUIKit.dylib
+copying file ./SwiftSupport/iphoneos/libswiftMetal.dylib ... 
+2021-02-01 03:20:19 +0000  724304 bytes for ./SwiftSupport/iphoneos/libswiftMetal.dylib
+copying file ./SwiftSupport/iphoneos/libswiftDispatch.dylib ... 
+2021-02-01 03:20:19 +0000  4056784 bytes for ./SwiftSupport/iphoneos/libswiftDispatch.dylib
+2021-02-01 03:20:19 +0000  copying file ./SwiftSupport/iphoneos/libswiftos.dylib ... 
+2021-02-01 03:20:19 +0000  857072 bytes for ./SwiftSupport/iphoneos/libswiftos.dylib
+copying file ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib ... 
+2021-02-01 03:20:19 +0000  450272 bytes for ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib
+copying file ./SwiftSupport/iphoneos/libswiftDarwin.dylib ... 
+2021-02-01 03:20:19 +0000  1091328 bytes for ./SwiftSupport/iphoneos/libswiftDarwin.dylib
+2021-02-01 03:20:19 +0000  copying file ./SwiftSupport/iphoneos/libswiftQuartzCore.dylib ... 
+2021-02-01 03:20:19 +0000  486224 bytes for ./SwiftSupport/iphoneos/libswiftQuartzCore.dylib
+2021-02-01 03:20:19 +0000  copying file ./SwiftSupport/iphoneos/libswiftFoundation.dylib ... 
+2021-02-01 03:20:21 +0000  43094208 bytes for ./SwiftSupport/iphoneos/libswiftFoundation.dylib
+2021-02-01 03:20:21 +0000  /usr/bin/ditto exited with 0
+2021-02-01 03:20:21 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2021-02-01 03:20:21 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2021-02-01 03:20:21 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2021-02-01 03:20:22 +0000  IDEDistributionItem init <DVTFilePath:0x7f9a1514bee0:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftDispatch.dylib'>
+2021-02-01 03:20:22 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f9a1514bee0:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftDispatch.dylib'>
+2021-02-01 03:20:22 +0000  IDEDistributionItem init <DVTFilePath:0x7f99b523e900:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCore.dylib'>
+2021-02-01 03:20:22 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f99b523e900:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCore.dylib'>
+2021-02-01 03:20:22 +0000  IDEDistributionItem init <DVTFilePath:0x7f9a18c91a70:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftFoundation.dylib'>
+2021-02-01 03:20:22 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f9a18c91a70:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftFoundation.dylib'>
+2021-02-01 03:20:22 +0000  IDEDistributionItem init <DVTFilePath:0x7f99aec2e930:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/PlugIns/OneSignalNotificationServiceExtension.appex'>
+2021-02-01 03:20:22 +0000  IDEDistributionItem init <DVTFilePath:0x7f9a151940f0:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib'>
+2021-02-01 03:20:22 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f9a151940f0:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftObjectiveC.dylib'>
+2021-02-01 03:20:22 +0000  IDEDistributionItem init <DVTFilePath:0x7f99b5266b80:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftUIKit.dylib'>
+2021-02-01 03:20:22 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f99b5266b80:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftUIKit.dylib'>
+2021-02-01 03:20:22 +0000  IDEDistributionItem init <DVTFilePath:0x7f9a15147370:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib'>
+2021-02-01 03:20:22 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f9a15147370:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreGraphics.dylib'>
+2021-02-01 03:20:22 +0000  IDEDistributionItem init <DVTFilePath:0x7f9a2983fe70:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreImage.dylib'>
+2021-02-01 03:20:22 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f9a2983fe70:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreImage.dylib'>
+2021-02-01 03:20:22 +0000  IDEDistributionItem init <DVTFilePath:0x7f99b524f4b0:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftMetal.dylib'>
+2021-02-01 03:20:22 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f99b524f4b0:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftMetal.dylib'>
+2021-02-01 03:20:22 +0000  IDEDistributionItem init <DVTFilePath:0x7f9a151d9110:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftDarwin.dylib'>
+2021-02-01 03:20:22 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f9a151d9110:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftDarwin.dylib'>
+2021-02-01 03:20:22 +0000  IDEDistributionItem init <DVTFilePath:0x7f9a15194cc0:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib'>
+2021-02-01 03:20:22 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f9a15194cc0:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftQuartzCore.dylib'>
+2021-02-01 03:20:22 +0000  IDEDistributionItem init <DVTFilePath:0x7f9a1516d020:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftos.dylib'>
+2021-02-01 03:20:23 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f9a1516d020:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftos.dylib'>
+2021-02-01 03:20:23 +0000  IDEDistributionItem init <DVTFilePath:0x7f9a1516b920:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib'>
+2021-02-01 03:20:23 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7f9a1516b920:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app/Frameworks/libswiftCoreFoundation.dylib'>
+2021-02-01 03:20:23 +0000  IDEDistributionItem init <DVTFilePath:0x7f9a100d9d00:'/var/folders/h3/sr_0j32x0jvff6n3h2vry1780000gn/T/XcodeDistPipeline.~~~ubqrac/Root/Payload/simthanhdat.app'>
+2021-02-01 03:20:23 +0000  Processing step: IDEDistributionCreateManifestStep
+2021-02-01 03:20:23 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so

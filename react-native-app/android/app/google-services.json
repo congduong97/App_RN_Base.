@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "97747589689",
+    "firebase_url": "https://sim-thanh-dat.firebaseio.com",
+    "project_id": "sim-thanh-dat",
+    "storage_bucket": "sim-thanh-dat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97747589689:android:16117199fb99b993288be8",
+        "android_client_info": {
+          "package_name": "com.zamio.simthanhdat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97747589689-upe49vdivj2uj11trh9gf7v191nf91hq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zamio.simthanhdat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "97747589689-fni2qq3a2j58c87lbq2tdg1rl4rm8oj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAzkONMYlAXFfDTpXHemPqrgJTZdJfiKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97747589689-fni2qq3a2j58c87lbq2tdg1rl4rm8oj8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "97747589689-pir4eglqjh6ltfprlpm0kntsm33nufbv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.evotek.simthanhdat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
